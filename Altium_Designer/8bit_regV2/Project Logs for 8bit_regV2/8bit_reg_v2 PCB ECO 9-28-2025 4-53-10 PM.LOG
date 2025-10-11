@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=CLK Pin=J1-9
+Removed Pin From Net: NetName=CLR Pin=J1-10
+Removed Pin From Net: NetName=Read_Enable Pin=J2-9
+Removed Pin From Net: NetName=Write_Enable Pin=J2-10
+Change Component Designator: OldDesignator=LED0 NewDesignator=D1
+Change Component Designator: OldDesignator=LED1 NewDesignator=D2
+Change Component Designator: OldDesignator=LED2 NewDesignator=D3
+Change Component Designator: OldDesignator=LED3 NewDesignator=D4
+Change Component Designator: OldDesignator=LED4 NewDesignator=D5
+Change Component Designator: OldDesignator=LED5 NewDesignator=D6
+Change Component Designator: OldDesignator=LED6 NewDesignator=D7
+Change Component Designator: OldDesignator=LED7 NewDesignator=D8
+Added Pin To Net: NetName=Read_Enable Pin=J1-9
+Added Pin To Net: NetName=Write_Enable Pin=J1-10
+Added Pin To Net: NetName=CLK Pin=J2-9
+Added Pin To Net: NetName=CLR Pin=J2-10
+Added Member To Class: ClassName=8bit_reg_v2 Member=Component D3 19-217/R6C-AL1M2VY/3T

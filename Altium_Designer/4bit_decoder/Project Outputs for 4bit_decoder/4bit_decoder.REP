@@ -1,0 +1,295 @@
+*************************************************************
+FileName = 4bit_decoder.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Pad Master
+      File : 4bit_decoder.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D29
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : 4bit_decoder.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : 4bit_decoder.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : 4bit_decoder.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : 4bit_decoder.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : 4bit_decoder.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D29
+    D30
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : 4bit_decoder.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : 4bit_decoder.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : 4bit_decoder.GM2
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : 4bit_decoder.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : 4bit_decoder.GM3
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : 4bit_decoder.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : 4bit_decoder.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : 4bit_decoder.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D28
+    D29
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : 4bit_decoder.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D19
+    D20
+    D21
+    D22
+    D23
+    D28
+    D29
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : 4bit_decoder.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : 4bit_decoder.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : 4bit_decoder.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : 4bit_decoder.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : 4bit_decoder.GM
+
+
+Used DCodes :
+    D39
+*************************************************************
+

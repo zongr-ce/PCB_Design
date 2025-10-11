@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [8bit_RAM.PrjPcb]
+   Generated File[Pick Place for 8bit_RAM.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:19:29 PM On 10/2/2025

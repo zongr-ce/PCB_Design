@@ -1,0 +1,400 @@
+Change Component Footprint: Designator=U2 Old Footprint=N0014A New Footprint=FP-D0014A-MFG
+Change Component Footprint: Designator=U4 Old Footprint=N0014A New Footprint=FP-D0014A-MFG
+Change Component Footprint: Designator=U6 Old Footprint=N0014A New Footprint=FP-D0014A-MFG
+Change Component Footprint: Designator=U9 Old Footprint=N0014A New Footprint=FP-D0014A-MFG
+Change Component Footprint: Designator=U11 Old Footprint=N0014A New Footprint=FP-D0014A-MFG
+Change Component Footprint: Designator=U13 Old Footprint=N0014A New Footprint=FP-D0014A-MFG
+Change Component Footprint: Designator=U15 Old Footprint=N0014A New Footprint=FP-D0014A-MFG
+Change Component Footprint: Designator=U17 Old Footprint=N0014A New Footprint=FP-D0014A-MFG
+Change Component Comment : Designator=U2 Old Comment=SN74HC21N New Comment=SN74HC21DR
+Change Component Comment : Designator=U4 Old Comment=SN74HC21N New Comment=SN74HC21DR
+Change Component Comment : Designator=U6 Old Comment=SN74HC21N New Comment=SN74HC21DR
+Change Component Comment : Designator=U9 Old Comment=SN74HC21N New Comment=SN74HC21DR
+Change Component Comment : Designator=U11 Old Comment=SN74HC21N New Comment=SN74HC21DR
+Change Component Comment : Designator=U13 Old Comment=SN74HC21N New Comment=SN74HC21DR
+Change Component Comment : Designator=U15 Old Comment=SN74HC21N New Comment=SN74HC21DR
+Change Component Comment : Designator=U17 Old Comment=SN74HC21N New Comment=SN74HC21DR
+Change Managed Component Library Link : Designator=U2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=941B5E77-F178-4ED9-8FDF-5B920F6CA26A Old ItemGUID=5495C2A1-E15B-4ABB-969F-37CA98854F14 New ItemGUID=b95defb5-9072-4517-a2e9-17ad94d52a9f Old RevisionGUID=85800785-D082-427C-9C5C-D917E244E258 New RevisionGUID=0c10f136-3cf6-4521-a781-103de7c99ccf
+Change Managed Component Library Link : Designator=U4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=941B5E77-F178-4ED9-8FDF-5B920F6CA26A Old ItemGUID=5495C2A1-E15B-4ABB-969F-37CA98854F14 New ItemGUID=b95defb5-9072-4517-a2e9-17ad94d52a9f Old RevisionGUID=85800785-D082-427C-9C5C-D917E244E258 New RevisionGUID=0c10f136-3cf6-4521-a781-103de7c99ccf
+Change Managed Component Library Link : Designator=U6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=941B5E77-F178-4ED9-8FDF-5B920F6CA26A Old ItemGUID=5495C2A1-E15B-4ABB-969F-37CA98854F14 New ItemGUID=b95defb5-9072-4517-a2e9-17ad94d52a9f Old RevisionGUID=85800785-D082-427C-9C5C-D917E244E258 New RevisionGUID=0c10f136-3cf6-4521-a781-103de7c99ccf
+Change Managed Component Library Link : Designator=U9 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=941B5E77-F178-4ED9-8FDF-5B920F6CA26A Old ItemGUID=5495C2A1-E15B-4ABB-969F-37CA98854F14 New ItemGUID=b95defb5-9072-4517-a2e9-17ad94d52a9f Old RevisionGUID=85800785-D082-427C-9C5C-D917E244E258 New RevisionGUID=0c10f136-3cf6-4521-a781-103de7c99ccf
+Change Managed Component Library Link : Designator=U11 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=941B5E77-F178-4ED9-8FDF-5B920F6CA26A Old ItemGUID=5495C2A1-E15B-4ABB-969F-37CA98854F14 New ItemGUID=b95defb5-9072-4517-a2e9-17ad94d52a9f Old RevisionGUID=85800785-D082-427C-9C5C-D917E244E258 New RevisionGUID=0c10f136-3cf6-4521-a781-103de7c99ccf
+Change Managed Component Library Link : Designator=U13 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=941B5E77-F178-4ED9-8FDF-5B920F6CA26A Old ItemGUID=5495C2A1-E15B-4ABB-969F-37CA98854F14 New ItemGUID=b95defb5-9072-4517-a2e9-17ad94d52a9f Old RevisionGUID=85800785-D082-427C-9C5C-D917E244E258 New RevisionGUID=0c10f136-3cf6-4521-a781-103de7c99ccf
+Change Managed Component Library Link : Designator=U15 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=941B5E77-F178-4ED9-8FDF-5B920F6CA26A Old ItemGUID=5495C2A1-E15B-4ABB-969F-37CA98854F14 New ItemGUID=b95defb5-9072-4517-a2e9-17ad94d52a9f Old RevisionGUID=85800785-D082-427C-9C5C-D917E244E258 New RevisionGUID=0c10f136-3cf6-4521-a781-103de7c99ccf
+Change Managed Component Library Link : Designator=U17 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=941B5E77-F178-4ED9-8FDF-5B920F6CA26A Old ItemGUID=5495C2A1-E15B-4ABB-969F-37CA98854F14 New ItemGUID=b95defb5-9072-4517-a2e9-17ad94d52a9f Old RevisionGUID=85800785-D082-427C-9C5C-D917E244E258 New RevisionGUID=0c10f136-3cf6-4521-a781-103de7c99ccf
+Change component parameters: Designator = "U2" ("U2"); Footprint = "N0014A"; UniqueID = "\YCLEXLLW" ("\YCLEXLLW")
+Change component parameters: Designator = "U4" ("U4"); Footprint = "N0014A"; UniqueID = "\ORBOTOBI" ("\ORBOTOBI")
+Change component parameters: Designator = "U6" ("U6"); Footprint = "N0014A"; UniqueID = "\VYJWFFUP" ("\VYJWFFUP")
+Change component parameters: Designator = "U9" ("U9"); Footprint = "N0014A"; UniqueID = "\UZIDHHQZ" ("\UZIDHHQZ")
+Change component parameters: Designator = "U11" ("U11"); Footprint = "N0014A"; UniqueID = "\YRJAULJU" ("\YRJAULJU")
+Change component parameters: Designator = "U13" ("U13"); Footprint = "N0014A"; UniqueID = "\XMTNSZOE" ("\XMTNSZOE")
+Change component parameters: Designator = "U15" ("U15"); Footprint = "N0014A"; UniqueID = "\OMSEELOW" ("\OMSEELOW")
+Change component parameters: Designator = "U17" ("U17"); Footprint = "N0014A"; UniqueID = "\GKXIRRWD" ("\GKXIRRWD")
+Add Pin To Net: Unknown Pin: Pin 1-1
+Add Pin To Net: Unknown Pin: Pin 1-2
+Add Pin To Net: Unknown Pin: Pin 1-3
+Add Pin To Net: Unknown Pin: Pin 1-4
+Add Pin To Net: Unknown Pin: Pin 1-5
+Add Pin To Net: Unknown Pin: Pin 1-6
+Add Pin To Net: Unknown Pin: Pin 1-7
+Add Pin To Net: Unknown Pin: Pin 1-8
+Add Pin To Net: Unknown Pin: Pin 1-9
+Add Pin To Net: Unknown Pin: Pin 1-10
+Add Pin To Net: Unknown Pin: Pin 1-12
+Add Pin To Net: Unknown Pin: Pin 1-13
+Add Pin To Net: Unknown Pin: Pin 1-15
+Add Pin To Net: Unknown Pin: Pin 1-16
+Add Pin To Net: Unknown Pin: Pin 1-17
+Add Pin To Net: Unknown Pin: Pin 1-18
+Add Pin To Net: Unknown Pin: Pin 1-19
+Add Pin To Net: Unknown Pin: Pin 1-20
+Add Pin To Net: Unknown Pin: Pin 1-21
+Add Pin To Net: Unknown Pin: Pin 1-22
+Add Pin To Net: Unknown Pin: Pin 1-23
+Add Pin To Net: Unknown Pin: Pin 1-24
+Add Pin To Net: Unknown Pin: Pin 2-1
+Add Pin To Net: Unknown Pin: Pin 2-2
+Add Pin To Net: Unknown Pin: Pin 2-3
+Add Pin To Net: Unknown Pin: Pin 2-4
+Add Pin To Net: Unknown Pin: Pin 2-5
+Add Pin To Net: Unknown Pin: Pin 2-6
+Add Pin To Net: Unknown Pin: Pin 2-7
+Add Pin To Net: Unknown Pin: Pin 2-8
+Add Pin To Net: Unknown Pin: Pin 2-9
+Add Pin To Net: Unknown Pin: Pin 2-10
+Add Pin To Net: Unknown Pin: Pin 2-12
+Add Pin To Net: Unknown Pin: Pin 2-13
+Add Pin To Net: Unknown Pin: Pin 2-15
+Add Pin To Net: Unknown Pin: Pin 2-16
+Add Pin To Net: Unknown Pin: Pin 2-17
+Add Pin To Net: Unknown Pin: Pin 2-18
+Add Pin To Net: Unknown Pin: Pin 2-19
+Add Pin To Net: Unknown Pin: Pin 2-20
+Add Pin To Net: Unknown Pin: Pin 2-21
+Add Pin To Net: Unknown Pin: Pin 2-22
+Add Pin To Net: Unknown Pin: Pin 2-23
+Add Pin To Net: Unknown Pin: Pin 2-24
+Add Pin To Net: Unknown Pin: Pin 3-1
+Add Pin To Net: Unknown Pin: Pin 3-2
+Add Pin To Net: Unknown Pin: Pin 3-3
+Add Pin To Net: Unknown Pin: Pin 3-4
+Add Pin To Net: Unknown Pin: Pin 3-5
+Add Pin To Net: Unknown Pin: Pin 3-6
+Add Pin To Net: Unknown Pin: Pin 3-7
+Add Pin To Net: Unknown Pin: Pin 3-8
+Add Pin To Net: Unknown Pin: Pin 3-9
+Add Pin To Net: Unknown Pin: Pin 3-10
+Add Pin To Net: Unknown Pin: Pin 3-12
+Add Pin To Net: Unknown Pin: Pin 3-13
+Add Pin To Net: Unknown Pin: Pin 3-15
+Add Pin To Net: Unknown Pin: Pin 3-16
+Add Pin To Net: Unknown Pin: Pin 3-17
+Add Pin To Net: Unknown Pin: Pin 3-18
+Add Pin To Net: Unknown Pin: Pin 3-19
+Add Pin To Net: Unknown Pin: Pin 3-20
+Add Pin To Net: Unknown Pin: Pin 3-21
+Add Pin To Net: Unknown Pin: Pin 3-22
+Add Pin To Net: Unknown Pin: Pin 3-23
+Add Pin To Net: Unknown Pin: Pin 3-24
+Add Pin To Net: Unknown Pin: Pin 4-1
+Add Pin To Net: Unknown Pin: Pin 4-2
+Add Pin To Net: Unknown Pin: Pin 4-3
+Add Pin To Net: Unknown Pin: Pin 4-4
+Add Pin To Net: Unknown Pin: Pin 4-5
+Add Pin To Net: Unknown Pin: Pin 4-6
+Add Pin To Net: Unknown Pin: Pin 4-7
+Add Pin To Net: Unknown Pin: Pin 4-8
+Add Pin To Net: Unknown Pin: Pin 4-9
+Add Pin To Net: Unknown Pin: Pin 4-10
+Add Pin To Net: Unknown Pin: Pin 4-12
+Add Pin To Net: Unknown Pin: Pin 4-13
+Add Pin To Net: Unknown Pin: Pin 4-15
+Add Pin To Net: Unknown Pin: Pin 4-16
+Add Pin To Net: Unknown Pin: Pin 4-17
+Add Pin To Net: Unknown Pin: Pin 4-18
+Add Pin To Net: Unknown Pin: Pin 4-19
+Add Pin To Net: Unknown Pin: Pin 4-20
+Add Pin To Net: Unknown Pin: Pin 4-21
+Add Pin To Net: Unknown Pin: Pin 4-22
+Add Pin To Net: Unknown Pin: Pin 4-23
+Add Pin To Net: Unknown Pin: Pin 4-24
+Add Pin To Net: Unknown Pin: Pin 5-1
+Add Pin To Net: Unknown Pin: Pin 5-2
+Add Pin To Net: Unknown Pin: Pin 5-3
+Add Pin To Net: Unknown Pin: Pin 5-4
+Add Pin To Net: Unknown Pin: Pin 5-5
+Add Pin To Net: Unknown Pin: Pin 5-6
+Add Pin To Net: Unknown Pin: Pin 5-7
+Add Pin To Net: Unknown Pin: Pin 5-8
+Add Pin To Net: Unknown Pin: Pin 5-9
+Add Pin To Net: Unknown Pin: Pin 5-10
+Add Pin To Net: Unknown Pin: Pin 5-12
+Add Pin To Net: Unknown Pin: Pin 5-13
+Add Pin To Net: Unknown Pin: Pin 5-15
+Add Pin To Net: Unknown Pin: Pin 5-16
+Add Pin To Net: Unknown Pin: Pin 5-17
+Add Pin To Net: Unknown Pin: Pin 5-18
+Add Pin To Net: Unknown Pin: Pin 5-19
+Add Pin To Net: Unknown Pin: Pin 5-20
+Add Pin To Net: Unknown Pin: Pin 5-21
+Add Pin To Net: Unknown Pin: Pin 5-22
+Add Pin To Net: Unknown Pin: Pin 5-23
+Add Pin To Net: Unknown Pin: Pin 5-24
+Add Pin To Net: Unknown Pin: Pin 6-1
+Add Pin To Net: Unknown Pin: Pin 6-2
+Add Pin To Net: Unknown Pin: Pin 6-3
+Add Pin To Net: Unknown Pin: Pin 6-4
+Add Pin To Net: Unknown Pin: Pin 6-5
+Add Pin To Net: Unknown Pin: Pin 6-6
+Add Pin To Net: Unknown Pin: Pin 6-7
+Add Pin To Net: Unknown Pin: Pin 6-8
+Add Pin To Net: Unknown Pin: Pin 6-9
+Add Pin To Net: Unknown Pin: Pin 6-10
+Add Pin To Net: Unknown Pin: Pin 6-12
+Add Pin To Net: Unknown Pin: Pin 6-13
+Add Pin To Net: Unknown Pin: Pin 6-15
+Add Pin To Net: Unknown Pin: Pin 6-16
+Add Pin To Net: Unknown Pin: Pin 6-17
+Add Pin To Net: Unknown Pin: Pin 6-18
+Add Pin To Net: Unknown Pin: Pin 6-19
+Add Pin To Net: Unknown Pin: Pin 6-20
+Add Pin To Net: Unknown Pin: Pin 6-21
+Add Pin To Net: Unknown Pin: Pin 6-22
+Add Pin To Net: Unknown Pin: Pin 6-23
+Add Pin To Net: Unknown Pin: Pin 6-24
+Add Pin To Net: Unknown Pin: Pin 7-1
+Add Pin To Net: Unknown Pin: Pin 7-2
+Add Pin To Net: Unknown Pin: Pin 7-3
+Add Pin To Net: Unknown Pin: Pin 7-4
+Add Pin To Net: Unknown Pin: Pin 7-5
+Add Pin To Net: Unknown Pin: Pin 7-6
+Add Pin To Net: Unknown Pin: Pin 7-7
+Add Pin To Net: Unknown Pin: Pin 7-8
+Add Pin To Net: Unknown Pin: Pin 7-9
+Add Pin To Net: Unknown Pin: Pin 7-10
+Add Pin To Net: Unknown Pin: Pin 7-12
+Add Pin To Net: Unknown Pin: Pin 7-13
+Add Pin To Net: Unknown Pin: Pin 7-15
+Add Pin To Net: Unknown Pin: Pin 7-16
+Add Pin To Net: Unknown Pin: Pin 7-17
+Add Pin To Net: Unknown Pin: Pin 7-18
+Add Pin To Net: Unknown Pin: Pin 7-19
+Add Pin To Net: Unknown Pin: Pin 7-20
+Add Pin To Net: Unknown Pin: Pin 7-21
+Add Pin To Net: Unknown Pin: Pin 7-22
+Add Pin To Net: Unknown Pin: Pin 7-23
+Add Pin To Net: Unknown Pin: Pin 7-24
+Add Pin To Net: Unknown Pin: Pin 8-1
+Add Pin To Net: Unknown Pin: Pin 8-2
+Add Pin To Net: Unknown Pin: Pin 8-3
+Add Pin To Net: Unknown Pin: Pin 8-4
+Add Pin To Net: Unknown Pin: Pin 8-5
+Add Pin To Net: Unknown Pin: Pin 8-6
+Add Pin To Net: Unknown Pin: Pin 8-7
+Add Pin To Net: Unknown Pin: Pin 8-8
+Add Pin To Net: Unknown Pin: Pin 8-9
+Add Pin To Net: Unknown Pin: Pin 8-10
+Add Pin To Net: Unknown Pin: Pin 8-12
+Add Pin To Net: Unknown Pin: Pin 8-13
+Add Pin To Net: Unknown Pin: Pin 8-15
+Add Pin To Net: Unknown Pin: Pin 8-16
+Add Pin To Net: Unknown Pin: Pin 8-17
+Add Pin To Net: Unknown Pin: Pin 8-18
+Add Pin To Net: Unknown Pin: Pin 8-19
+Add Pin To Net: Unknown Pin: Pin 8-20
+Add Pin To Net: Unknown Pin: Pin 8-21
+Add Pin To Net: Unknown Pin: Pin 8-22
+Add Pin To Net: Unknown Pin: Pin 8-23
+Add Pin To Net: Unknown Pin: Pin 8-24
+Add Pin To Net: Unknown Pin: Pin 9-1
+Add Pin To Net: Unknown Pin: Pin 9-2
+Add Pin To Net: Unknown Pin: Pin 9-3
+Add Pin To Net: Unknown Pin: Pin 9-4
+Add Pin To Net: Unknown Pin: Pin 9-5
+Add Pin To Net: Unknown Pin: Pin 9-6
+Add Pin To Net: Unknown Pin: Pin 9-7
+Add Pin To Net: Unknown Pin: Pin 9-8
+Add Pin To Net: Unknown Pin: Pin 9-9
+Add Pin To Net: Unknown Pin: Pin 9-10
+Add Pin To Net: Unknown Pin: Pin 9-12
+Add Pin To Net: Unknown Pin: Pin 9-13
+Add Pin To Net: Unknown Pin: Pin 9-15
+Add Pin To Net: Unknown Pin: Pin 9-16
+Add Pin To Net: Unknown Pin: Pin 9-17
+Add Pin To Net: Unknown Pin: Pin 9-18
+Add Pin To Net: Unknown Pin: Pin 9-19
+Add Pin To Net: Unknown Pin: Pin 9-20
+Add Pin To Net: Unknown Pin: Pin 9-21
+Add Pin To Net: Unknown Pin: Pin 9-22
+Add Pin To Net: Unknown Pin: Pin 9-23
+Add Pin To Net: Unknown Pin: Pin 9-24
+Add Pin To Net: Unknown Pin: Pin 10-1
+Add Pin To Net: Unknown Pin: Pin 10-2
+Add Pin To Net: Unknown Pin: Pin 10-3
+Add Pin To Net: Unknown Pin: Pin 10-4
+Add Pin To Net: Unknown Pin: Pin 10-5
+Add Pin To Net: Unknown Pin: Pin 10-6
+Add Pin To Net: Unknown Pin: Pin 10-7
+Add Pin To Net: Unknown Pin: Pin 10-8
+Add Pin To Net: Unknown Pin: Pin 10-9
+Add Pin To Net: Unknown Pin: Pin 10-10
+Add Pin To Net: Unknown Pin: Pin 10-12
+Add Pin To Net: Unknown Pin: Pin 10-13
+Add Pin To Net: Unknown Pin: Pin 10-15
+Add Pin To Net: Unknown Pin: Pin 10-16
+Add Pin To Net: Unknown Pin: Pin 10-17
+Add Pin To Net: Unknown Pin: Pin 10-18
+Add Pin To Net: Unknown Pin: Pin 10-19
+Add Pin To Net: Unknown Pin: Pin 10-20
+Add Pin To Net: Unknown Pin: Pin 10-21
+Add Pin To Net: Unknown Pin: Pin 10-22
+Add Pin To Net: Unknown Pin: Pin 10-23
+Add Pin To Net: Unknown Pin: Pin 10-24
+Add Pin To Net: Unknown Pin: Pin 11-1
+Add Pin To Net: Unknown Pin: Pin 11-2
+Add Pin To Net: Unknown Pin: Pin 11-3
+Add Pin To Net: Unknown Pin: Pin 11-4
+Add Pin To Net: Unknown Pin: Pin 11-5
+Add Pin To Net: Unknown Pin: Pin 11-6
+Add Pin To Net: Unknown Pin: Pin 11-7
+Add Pin To Net: Unknown Pin: Pin 11-8
+Add Pin To Net: Unknown Pin: Pin 11-9
+Add Pin To Net: Unknown Pin: Pin 11-10
+Add Pin To Net: Unknown Pin: Pin 11-12
+Add Pin To Net: Unknown Pin: Pin 11-13
+Add Pin To Net: Unknown Pin: Pin 11-15
+Add Pin To Net: Unknown Pin: Pin 11-16
+Add Pin To Net: Unknown Pin: Pin 11-17
+Add Pin To Net: Unknown Pin: Pin 11-18
+Add Pin To Net: Unknown Pin: Pin 11-19
+Add Pin To Net: Unknown Pin: Pin 11-20
+Add Pin To Net: Unknown Pin: Pin 11-21
+Add Pin To Net: Unknown Pin: Pin 11-22
+Add Pin To Net: Unknown Pin: Pin 11-23
+Add Pin To Net: Unknown Pin: Pin 11-24
+Add Pin To Net: Unknown Pin: Pin 12-1
+Add Pin To Net: Unknown Pin: Pin 12-2
+Add Pin To Net: Unknown Pin: Pin 12-3
+Add Pin To Net: Unknown Pin: Pin 12-4
+Add Pin To Net: Unknown Pin: Pin 12-5
+Add Pin To Net: Unknown Pin: Pin 12-6
+Add Pin To Net: Unknown Pin: Pin 12-7
+Add Pin To Net: Unknown Pin: Pin 12-8
+Add Pin To Net: Unknown Pin: Pin 12-9
+Add Pin To Net: Unknown Pin: Pin 12-10
+Add Pin To Net: Unknown Pin: Pin 12-12
+Add Pin To Net: Unknown Pin: Pin 12-13
+Add Pin To Net: Unknown Pin: Pin 12-15
+Add Pin To Net: Unknown Pin: Pin 12-16
+Add Pin To Net: Unknown Pin: Pin 12-17
+Add Pin To Net: Unknown Pin: Pin 12-18
+Add Pin To Net: Unknown Pin: Pin 12-19
+Add Pin To Net: Unknown Pin: Pin 12-20
+Add Pin To Net: Unknown Pin: Pin 12-21
+Add Pin To Net: Unknown Pin: Pin 12-22
+Add Pin To Net: Unknown Pin: Pin 12-23
+Add Pin To Net: Unknown Pin: Pin 12-24
+Add Pin To Net: Unknown Pin: Pin 13-1
+Add Pin To Net: Unknown Pin: Pin 13-2
+Add Pin To Net: Unknown Pin: Pin 13-3
+Add Pin To Net: Unknown Pin: Pin 13-4
+Add Pin To Net: Unknown Pin: Pin 13-5
+Add Pin To Net: Unknown Pin: Pin 13-6
+Add Pin To Net: Unknown Pin: Pin 13-7
+Add Pin To Net: Unknown Pin: Pin 13-8
+Add Pin To Net: Unknown Pin: Pin 13-9
+Add Pin To Net: Unknown Pin: Pin 13-10
+Add Pin To Net: Unknown Pin: Pin 13-12
+Add Pin To Net: Unknown Pin: Pin 13-13
+Add Pin To Net: Unknown Pin: Pin 13-15
+Add Pin To Net: Unknown Pin: Pin 13-16
+Add Pin To Net: Unknown Pin: Pin 13-17
+Add Pin To Net: Unknown Pin: Pin 13-18
+Add Pin To Net: Unknown Pin: Pin 13-19
+Add Pin To Net: Unknown Pin: Pin 13-20
+Add Pin To Net: Unknown Pin: Pin 13-21
+Add Pin To Net: Unknown Pin: Pin 13-22
+Add Pin To Net: Unknown Pin: Pin 13-23
+Add Pin To Net: Unknown Pin: Pin 13-24
+Add Pin To Net: Unknown Pin: Pin 14-1
+Add Pin To Net: Unknown Pin: Pin 14-2
+Add Pin To Net: Unknown Pin: Pin 14-3
+Add Pin To Net: Unknown Pin: Pin 14-4
+Add Pin To Net: Unknown Pin: Pin 14-5
+Add Pin To Net: Unknown Pin: Pin 14-6
+Add Pin To Net: Unknown Pin: Pin 14-7
+Add Pin To Net: Unknown Pin: Pin 14-8
+Add Pin To Net: Unknown Pin: Pin 14-9
+Add Pin To Net: Unknown Pin: Pin 14-10
+Add Pin To Net: Unknown Pin: Pin 14-12
+Add Pin To Net: Unknown Pin: Pin 14-13
+Add Pin To Net: Unknown Pin: Pin 14-15
+Add Pin To Net: Unknown Pin: Pin 14-16
+Add Pin To Net: Unknown Pin: Pin 14-17
+Add Pin To Net: Unknown Pin: Pin 14-18
+Add Pin To Net: Unknown Pin: Pin 14-19
+Add Pin To Net: Unknown Pin: Pin 14-20
+Add Pin To Net: Unknown Pin: Pin 14-21
+Add Pin To Net: Unknown Pin: Pin 14-22
+Add Pin To Net: Unknown Pin: Pin 14-23
+Add Pin To Net: Unknown Pin: Pin 14-24
+Add Pin To Net: Unknown Pin: Pin 15-1
+Add Pin To Net: Unknown Pin: Pin 15-2
+Add Pin To Net: Unknown Pin: Pin 15-3
+Add Pin To Net: Unknown Pin: Pin 15-4
+Add Pin To Net: Unknown Pin: Pin 15-5
+Add Pin To Net: Unknown Pin: Pin 15-6
+Add Pin To Net: Unknown Pin: Pin 15-7
+Add Pin To Net: Unknown Pin: Pin 15-8
+Add Pin To Net: Unknown Pin: Pin 15-9
+Add Pin To Net: Unknown Pin: Pin 15-10
+Add Pin To Net: Unknown Pin: Pin 15-12
+Add Pin To Net: Unknown Pin: Pin 15-13
+Add Pin To Net: Unknown Pin: Pin 15-15
+Add Pin To Net: Unknown Pin: Pin 15-16
+Add Pin To Net: Unknown Pin: Pin 15-17
+Add Pin To Net: Unknown Pin: Pin 15-18
+Add Pin To Net: Unknown Pin: Pin 15-19
+Add Pin To Net: Unknown Pin: Pin 15-20
+Add Pin To Net: Unknown Pin: Pin 15-21
+Add Pin To Net: Unknown Pin: Pin 15-22
+Add Pin To Net: Unknown Pin: Pin 15-23
+Add Pin To Net: Unknown Pin: Pin 15-24
+Add Pin To Net: Unknown Pin: Pin 16-1
+Add Pin To Net: Unknown Pin: Pin 16-2
+Add Pin To Net: Unknown Pin: Pin 16-3
+Add Pin To Net: Unknown Pin: Pin 16-4
+Add Pin To Net: Unknown Pin: Pin 16-5
+Add Pin To Net: Unknown Pin: Pin 16-6
+Add Pin To Net: Unknown Pin: Pin 16-7
+Add Pin To Net: Unknown Pin: Pin 16-8
+Add Pin To Net: Unknown Pin: Pin 16-9
+Add Pin To Net: Unknown Pin: Pin 16-10
+Add Pin To Net: Unknown Pin: Pin 16-12
+Add Pin To Net: Unknown Pin: Pin 16-13
+Add Pin To Net: Unknown Pin: Pin 16-15
+Add Pin To Net: Unknown Pin: Pin 16-16
+Add Pin To Net: Unknown Pin: Pin 16-17
+Add Pin To Net: Unknown Pin: Pin 16-18
+Add Pin To Net: Unknown Pin: Pin 16-19
+Add Pin To Net: Unknown Pin: Pin 16-20
+Add Pin To Net: Unknown Pin: Pin 16-21
+Add Pin To Net: Unknown Pin: Pin 16-22
+Add Pin To Net: Unknown Pin: Pin 16-23
+Add Pin To Net: Unknown Pin: Pin 16-24
+Add Class Member: Failed to add class member : Component 1 8bit_reg_v2
+Add Class Member: Failed to add class member : Component 2 8bit_reg_v2
+Add Class Member: Failed to add class member : Component 3 8bit_reg_v2
+Add Class Member: Failed to add class member : Component 4 8bit_reg_v2
+Add Class Member: Failed to add class member : Component 5 8bit_reg_v2
+Add Class Member: Failed to add class member : Component 6 8bit_reg_v2
+Add Class Member: Failed to add class member : Component 7 8bit_reg_v2
+Add Class Member: Failed to add class member : Component 8 8bit_reg_v2
+Add Class Member: Failed to add class member : Component 9 8bit_reg_v2
+Add Class Member: Failed to add class member : Component 10 8bit_reg_v2
+Add Class Member: Failed to add class member : Component 11 8bit_reg_v2
+Add Class Member: Failed to add class member : Component 12 8bit_reg_v2
+Add Class Member: Failed to add class member : Component 13 8bit_reg_v2
+Add Class Member: Failed to add class member : Component 14 8bit_reg_v2
+Add Class Member: Failed to add class member : Component 15 8bit_reg_v2
+Add Class Member: Failed to add class member : Component 16 8bit_reg_v2

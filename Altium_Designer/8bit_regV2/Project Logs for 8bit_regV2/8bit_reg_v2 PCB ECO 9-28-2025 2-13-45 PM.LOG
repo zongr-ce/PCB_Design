@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=+5 Pin=C2-2
+Removed Member From Class: ClassName=8bit_reg_v2 Member=C2
+Change Component Footprint: Designator=R1 Old Footprint=FP-RR1220-IPC_C New Footprint=RESC1608X55X30NL15T15
+Change Component Footprint: Designator=R2 Old Footprint=FP-RR1220-IPC_C New Footprint=RESC1608X55X30NL15T15
+Change Component Footprint: Designator=R3 Old Footprint=FP-RR1220-IPC_C New Footprint=RESC1608X55X30NL15T15
+Change Component Footprint: Designator=R4 Old Footprint=FP-RR1220-IPC_C New Footprint=RESC1608X55X30NL15T15
+Change Component Footprint: Designator=R5 Old Footprint=FP-RR1220-IPC_C New Footprint=RESC1608X55X30NL15T15
+Change Component Footprint: Designator=R6 Old Footprint=FP-RR1220-IPC_C New Footprint=RESC1608X55X30NL15T15
+Change Component Footprint: Designator=R7 Old Footprint=FP-RR1220-IPC_C New Footprint=RESC1608X55X30NL15T15
+Change Component Footprint: Designator=R8 Old Footprint=FP-RR1220-IPC_C New Footprint=RESC1608X55X30NL15T15
+Change Component Comment : Designator=R1 Old Comment=RR1220P-561-D New Comment=ERJ-3RQFR56V
+Change Component Comment : Designator=R2 Old Comment=RR1220P-561-D New Comment=ERJ-3RQFR56V
+Change Component Comment : Designator=R3 Old Comment=RR1220P-561-D New Comment=ERJ-3RQFR56V
+Change Component Comment : Designator=R4 Old Comment=RR1220P-561-D New Comment=ERJ-3RQFR56V
+Change Component Comment : Designator=R5 Old Comment=RR1220P-561-D New Comment=ERJ-3RQFR56V
+Change Component Comment : Designator=R6 Old Comment=RR1220P-561-D New Comment=ERJ-3RQFR56V
+Change Component Comment : Designator=R7 Old Comment=RR1220P-561-D New Comment=ERJ-3RQFR56V
+Change Component Comment : Designator=R8 Old Comment=RR1220P-561-D New Comment=ERJ-3RQFR56V
+Change Component Designator: OldDesignator=D1 NewDesignator=DS1
+Change Component Designator: OldDesignator=D2 NewDesignator=DS2
+Change Component Designator: OldDesignator=D3 NewDesignator=DS3
+Change Component Designator: OldDesignator=D4 NewDesignator=DS4
+Change Component Designator: OldDesignator=D5 NewDesignator=DS5
+Change Component Designator: OldDesignator=D6 NewDesignator=DS6
+Change Component Designator: OldDesignator=D7 NewDesignator=DS7
+Change Component Designator: OldDesignator=D8 NewDesignator=DS8
+Change Component Designator: OldDesignator=P3 NewDesignator=P1
+Change Component Designator: OldDesignator=P4 NewDesignator=P2
+Change Managed Component Library Link : Designator=R1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=B5F95E84-3312-4736-92DE-92CDB01191DA New ItemGUID=F944BEF1-895A-46B2-A6FC-0B78A076F9AB Old RevisionGUID=8B0D6295-DB76-453C-8024-CB4BF802BAE5 New RevisionGUID=CFC25D63-9080-4521-B127-B1CEE59206A4
+Change Managed Component Library Link : Designator=R2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=B5F95E84-3312-4736-92DE-92CDB01191DA New ItemGUID=F944BEF1-895A-46B2-A6FC-0B78A076F9AB Old RevisionGUID=8B0D6295-DB76-453C-8024-CB4BF802BAE5 New RevisionGUID=CFC25D63-9080-4521-B127-B1CEE59206A4
+Change Managed Component Library Link : Designator=R3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=B5F95E84-3312-4736-92DE-92CDB01191DA New ItemGUID=F944BEF1-895A-46B2-A6FC-0B78A076F9AB Old RevisionGUID=8B0D6295-DB76-453C-8024-CB4BF802BAE5 New RevisionGUID=CFC25D63-9080-4521-B127-B1CEE59206A4
+Change Managed Component Library Link : Designator=R4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=B5F95E84-3312-4736-92DE-92CDB01191DA New ItemGUID=F944BEF1-895A-46B2-A6FC-0B78A076F9AB Old RevisionGUID=8B0D6295-DB76-453C-8024-CB4BF802BAE5 New RevisionGUID=CFC25D63-9080-4521-B127-B1CEE59206A4
+Change Managed Component Library Link : Designator=R5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=B5F95E84-3312-4736-92DE-92CDB01191DA New ItemGUID=F944BEF1-895A-46B2-A6FC-0B78A076F9AB Old RevisionGUID=8B0D6295-DB76-453C-8024-CB4BF802BAE5 New RevisionGUID=CFC25D63-9080-4521-B127-B1CEE59206A4
+Change Managed Component Library Link : Designator=R6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=B5F95E84-3312-4736-92DE-92CDB01191DA New ItemGUID=F944BEF1-895A-46B2-A6FC-0B78A076F9AB Old RevisionGUID=8B0D6295-DB76-453C-8024-CB4BF802BAE5 New RevisionGUID=CFC25D63-9080-4521-B127-B1CEE59206A4
+Change Managed Component Library Link : Designator=R7 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=B5F95E84-3312-4736-92DE-92CDB01191DA New ItemGUID=F944BEF1-895A-46B2-A6FC-0B78A076F9AB Old RevisionGUID=8B0D6295-DB76-453C-8024-CB4BF802BAE5 New RevisionGUID=CFC25D63-9080-4521-B127-B1CEE59206A4
+Change Managed Component Library Link : Designator=R8 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=B5F95E84-3312-4736-92DE-92CDB01191DA New ItemGUID=F944BEF1-895A-46B2-A6FC-0B78A076F9AB Old RevisionGUID=8B0D6295-DB76-453C-8024-CB4BF802BAE5 New RevisionGUID=CFC25D63-9080-4521-B127-B1CEE59206A4
+Change component parameters: Designator = "R1" ("R1"); Footprint = "FP-RR1220-IPC_C"; UniqueID = "\IZQOVEVW" ("\IZQOVEVW")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-3RQFR56V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "FP-RR1220-IPC_C"; UniqueID = "\PSQMVOUD" ("\PSQMVOUD")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-3RQFR56V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "FP-RR1220-IPC_C"; UniqueID = "\JUFBEBZJ" ("\JUFBEBZJ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-3RQFR56V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "FP-RR1220-IPC_C"; UniqueID = "\KZFGLNOI" ("\KZFGLNOI")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-3RQFR56V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "FP-RR1220-IPC_C"; UniqueID = "\UOCOKIIN" ("\UOCOKIIN")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-3RQFR56V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "FP-RR1220-IPC_C"; UniqueID = "\ODHCWAEC" ("\ODHCWAEC")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-3RQFR56V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "FP-RR1220-IPC_C"; UniqueID = "\UZSOKEEK" ("\UZSOKEEK")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-3RQFR56V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "FP-RR1220-IPC_C"; UniqueID = "\BBULDTEO" ("\BBULDTEO")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-3RQFR56V"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAPC1608X90X40NL10T20)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Member To Class: ClassName=8bit_reg_v2 Member=Component C1 Capacitor 100 nF +/-10% 50 V 0603

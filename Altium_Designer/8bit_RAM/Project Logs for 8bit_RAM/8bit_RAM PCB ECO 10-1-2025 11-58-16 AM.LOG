@@ -1,0 +1,654 @@
+Removed Pin From Net: NetName=A0 Pin=J14-1
+Removed Pin From Net: NetName=A1 Pin=J14-2
+Removed Pin From Net: NetName=A2 Pin=J14-3
+Removed Pin From Net: NetName=A3 Pin=J14-4
+Removed Pin From Net: NetName=RE Pin=J14-5
+Removed Pin From Net: NetName=WE Pin=J14-6
+Removed Pin From Net: NetName=+5 Pin=J14-8
+Removed Pin From Net: NetName=GND Pin=J14-10
+Removed Pin From Net: NetName=RE Pin=U1-1
+Removed Pin From Net: NetName=RE0 Pin=U1-3
+Removed Pin From Net: NetName=WE Pin=U1-5
+Removed Pin From Net: NetName=WE0 Pin=U1-6
+Removed Pin From Net: NetName=GND Pin=U1-7
+Removed Pin From Net: NetName=RE1 Pin=U1-8
+Removed Pin From Net: NetName=RE Pin=U1-9
+Removed Pin From Net: NetName=WE1 Pin=U1-11
+Removed Pin From Net: NetName=WE Pin=U1-13
+Removed Pin From Net: NetName=+5 Pin=U1-14
+Removed Pin From Net: NetName=GND Pin=U2-7
+Removed Pin From Net: NetName=A0 Pin=U2-9
+Removed Pin From Net: NetName=+5 Pin=U2-14
+Removed Pin From Net: NetName=RE Pin=U3-1
+Removed Pin From Net: NetName=RE2 Pin=U3-3
+Removed Pin From Net: NetName=WE Pin=U3-5
+Removed Pin From Net: NetName=WE2 Pin=U3-6
+Removed Pin From Net: NetName=GND Pin=U3-7
+Removed Pin From Net: NetName=RE3 Pin=U3-8
+Removed Pin From Net: NetName=RE Pin=U3-9
+Removed Pin From Net: NetName=WE3 Pin=U3-11
+Removed Pin From Net: NetName=WE Pin=U3-13
+Removed Pin From Net: NetName=+5 Pin=U3-14
+Removed Pin From Net: NetName=A1 Pin=U4-2
+Removed Pin From Net: NetName=GND Pin=U4-7
+Removed Pin From Net: NetName=A0 Pin=U4-9
+Removed Pin From Net: NetName=A1 Pin=U4-10
+Removed Pin From Net: NetName=+5 Pin=U4-14
+Removed Pin From Net: NetName=RE Pin=U5-1
+Removed Pin From Net: NetName=RE4 Pin=U5-3
+Removed Pin From Net: NetName=WE Pin=U5-5
+Removed Pin From Net: NetName=WE4 Pin=U5-6
+Removed Pin From Net: NetName=GND Pin=U5-7
+Removed Pin From Net: NetName=RE5 Pin=U5-8
+Removed Pin From Net: NetName=RE Pin=U5-9
+Removed Pin From Net: NetName=WE5 Pin=U5-11
+Removed Pin From Net: NetName=WE Pin=U5-13
+Removed Pin From Net: NetName=+5 Pin=U5-14
+Removed Pin From Net: NetName=A2 Pin=U6-4
+Removed Pin From Net: NetName=GND Pin=U6-7
+Removed Pin From Net: NetName=A0 Pin=U6-9
+Removed Pin From Net: NetName=A2 Pin=U6-12
+Removed Pin From Net: NetName=+5 Pin=U6-14
+Removed Pin From Net: NetName=GND Pin=U7-1
+Removed Pin From Net: NetName=A0 Pin=U7-2
+Removed Pin From Net: NetName=A1 Pin=U7-4
+Removed Pin From Net: NetName=A2 Pin=U7-6
+Removed Pin From Net: NetName=A3 Pin=U7-8
+Removed Pin From Net: NetName=GND Pin=U7-10
+Removed Pin From Net: NetName=GND Pin=U7-19
+Removed Pin From Net: NetName=+5 Pin=U7-20
+Removed Pin From Net: NetName=RE Pin=U8-1
+Removed Pin From Net: NetName=RE6 Pin=U8-3
+Removed Pin From Net: NetName=WE Pin=U8-5
+Removed Pin From Net: NetName=WE6 Pin=U8-6
+Removed Pin From Net: NetName=GND Pin=U8-7
+Removed Pin From Net: NetName=RE7 Pin=U8-8
+Removed Pin From Net: NetName=RE Pin=U8-9
+Removed Pin From Net: NetName=WE7 Pin=U8-11
+Removed Pin From Net: NetName=WE Pin=U8-13
+Removed Pin From Net: NetName=+5 Pin=U8-14
+Removed Pin From Net: NetName=A1 Pin=U9-2
+Removed Pin From Net: NetName=A2 Pin=U9-4
+Removed Pin From Net: NetName=GND Pin=U9-7
+Removed Pin From Net: NetName=A0 Pin=U9-9
+Removed Pin From Net: NetName=A1 Pin=U9-10
+Removed Pin From Net: NetName=A2 Pin=U9-12
+Removed Pin From Net: NetName=+5 Pin=U9-14
+Removed Pin From Net: NetName=RE Pin=U10-1
+Removed Pin From Net: NetName=RE8 Pin=U10-3
+Removed Pin From Net: NetName=WE Pin=U10-5
+Removed Pin From Net: NetName=WE8 Pin=U10-6
+Removed Pin From Net: NetName=GND Pin=U10-7
+Removed Pin From Net: NetName=RE9 Pin=U10-8
+Removed Pin From Net: NetName=RE Pin=U10-9
+Removed Pin From Net: NetName=WE9 Pin=U10-11
+Removed Pin From Net: NetName=WE Pin=U10-13
+Removed Pin From Net: NetName=+5 Pin=U10-14
+Removed Pin From Net: NetName=A3 Pin=U11-5
+Removed Pin From Net: NetName=GND Pin=U11-7
+Removed Pin From Net: NetName=A0 Pin=U11-9
+Removed Pin From Net: NetName=A3 Pin=U11-13
+Removed Pin From Net: NetName=+5 Pin=U11-14
+Removed Pin From Net: NetName=RE Pin=U12-1
+Removed Pin From Net: NetName=RE10 Pin=U12-3
+Removed Pin From Net: NetName=WE Pin=U12-5
+Removed Pin From Net: NetName=WE10 Pin=U12-6
+Removed Pin From Net: NetName=GND Pin=U12-7
+Removed Pin From Net: NetName=RE11 Pin=U12-8
+Removed Pin From Net: NetName=RE Pin=U12-9
+Removed Pin From Net: NetName=WE11 Pin=U12-11
+Removed Pin From Net: NetName=WE Pin=U12-13
+Removed Pin From Net: NetName=+5 Pin=U12-14
+Removed Pin From Net: NetName=A1 Pin=U13-2
+Removed Pin From Net: NetName=A3 Pin=U13-5
+Removed Pin From Net: NetName=GND Pin=U13-7
+Removed Pin From Net: NetName=A0 Pin=U13-9
+Removed Pin From Net: NetName=A1 Pin=U13-10
+Removed Pin From Net: NetName=A3 Pin=U13-13
+Removed Pin From Net: NetName=+5 Pin=U13-14
+Removed Pin From Net: NetName=RE Pin=U14-1
+Removed Pin From Net: NetName=RE12 Pin=U14-3
+Removed Pin From Net: NetName=WE Pin=U14-5
+Removed Pin From Net: NetName=WE12 Pin=U14-6
+Removed Pin From Net: NetName=GND Pin=U14-7
+Removed Pin From Net: NetName=RE13 Pin=U14-8
+Removed Pin From Net: NetName=RE Pin=U14-9
+Removed Pin From Net: NetName=WE13 Pin=U14-11
+Removed Pin From Net: NetName=WE Pin=U14-13
+Removed Pin From Net: NetName=+5 Pin=U14-14
+Removed Pin From Net: NetName=A2 Pin=U15-4
+Removed Pin From Net: NetName=A3 Pin=U15-5
+Removed Pin From Net: NetName=GND Pin=U15-7
+Removed Pin From Net: NetName=A0 Pin=U15-9
+Removed Pin From Net: NetName=A2 Pin=U15-12
+Removed Pin From Net: NetName=A3 Pin=U15-13
+Removed Pin From Net: NetName=+5 Pin=U15-14
+Removed Pin From Net: NetName=RE Pin=U16-1
+Removed Pin From Net: NetName=RE14 Pin=U16-3
+Removed Pin From Net: NetName=WE Pin=U16-5
+Removed Pin From Net: NetName=WE14 Pin=U16-6
+Removed Pin From Net: NetName=GND Pin=U16-7
+Removed Pin From Net: NetName=RE15 Pin=U16-8
+Removed Pin From Net: NetName=RE Pin=U16-9
+Removed Pin From Net: NetName=WE15 Pin=U16-11
+Removed Pin From Net: NetName=WE Pin=U16-13
+Removed Pin From Net: NetName=+5 Pin=U16-14
+Removed Pin From Net: NetName=A1 Pin=U17-2
+Removed Pin From Net: NetName=A2 Pin=U17-4
+Removed Pin From Net: NetName=A3 Pin=U17-5
+Removed Pin From Net: NetName=GND Pin=U17-7
+Removed Pin From Net: NetName=A0 Pin=U17-9
+Removed Pin From Net: NetName=A1 Pin=U17-10
+Removed Pin From Net: NetName=A2 Pin=U17-12
+Removed Pin From Net: NetName=A3 Pin=U17-13
+Removed Pin From Net: NetName=+5 Pin=U17-14
+Removed Member From Class: ClassName=8bit_RAM Member=U1
+Removed Member From Class: ClassName=8bit_RAM Member=U2
+Removed Member From Class: ClassName=8bit_RAM Member=U3
+Removed Member From Class: ClassName=8bit_RAM Member=U4
+Removed Member From Class: ClassName=8bit_RAM Member=U5
+Removed Member From Class: ClassName=8bit_RAM Member=U6
+Removed Member From Class: ClassName=8bit_RAM Member=U7
+Removed Member From Class: ClassName=8bit_RAM Member=U8
+Removed Member From Class: ClassName=8bit_RAM Member=U9
+Removed Member From Class: ClassName=8bit_RAM Member=U10
+Removed Member From Class: ClassName=8bit_RAM Member=U11
+Removed Member From Class: ClassName=8bit_RAM Member=U12
+Removed Member From Class: ClassName=8bit_RAM Member=U13
+Removed Member From Class: ClassName=8bit_RAM Member=U14
+Removed Member From Class: ClassName=8bit_RAM Member=U15
+Removed Member From Class: ClassName=8bit_RAM Member=U16
+Removed Member From Class: ClassName=8bit_RAM Member=U17
+Change Component Footprint: Designator=J14 Old Footprint=FP-NRPN101PAEN-RC-MFG New Footprint=SULLINS_NPPN101BFCN-RC
+Change Component Comment : Designator=J14 Old Comment=NRPN101PAEN-RC New Comment=NPPN101BFCN-RC
+Change Managed Component Library Link : Designator=J14 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=941B5E77-F178-4ED9-8FDF-5B920F6CA26A Old ItemGUID=6083C3CA-E17B-4D94-AF70-1DC305BD31D2 New ItemGUID=CE6023A5-4A44-49A2-9AEB-3D58F42A3D28 Old RevisionGUID=50018384-DF28-4260-A22E-181E142ACA36 New RevisionGUID=353FB680-15C8-4825-B923-7F0C5E5C87AE
+Change component parameters: Designator = "J14" ("J14"); Footprint = "FP-NRPN101PAEN-RC-MFG"; UniqueID = "\VVVYNJOE" ("\VVVYNJOE")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/NPPN101BFCN-RC/Sullins/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "NPPN101BFCN-RC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Sullins Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "NPPN101BFCN-RC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NPPN101BFCN-RC/Sullins/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "NPPN101BFCN-RC.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J52(SULLINS_NPPN101BFCN-RC)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/NPPN101BFCN-RC/Sullins/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "NPPN101BFCN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sullins Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NPPN101BFCN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NPPN101BFCN-RC/Sullins/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "NPPN101BFCN-RC.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J53(SULLINS_NPPN101BFCN-RC)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/NPPN101BFCN-RC/Sullins/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "NPPN101BFCN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sullins Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NPPN101BFCN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NPPN101BFCN-RC/Sullins/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "NPPN101BFCN-RC.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J54(SULLINS_NPPN101BFCN-RC)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/NPPN101BFCN-RC/Sullins/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "NPPN101BFCN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sullins Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NPPN101BFCN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NPPN101BFCN-RC/Sullins/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "NPPN101BFCN-RC.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J55(FP-NRPN101PAEN-RC-MFG)
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Conn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://s3.amazonaws.com/catalogspreads-pdf/PAGE104-105%202mm%20MALE%20HDR%20ST%20RA%20SMT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold,Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "unset"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "CONN HEADER VERT 10POS 2MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Url"; Value = "https://drawings-pdf.s3.amazonaws.com/10531.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NRPN101PAEN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Contacts"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/nrpn101paen-rc-sullins-18674398"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin 1-1
+Add Pin To Net: Unknown Pin: Pin 1-2
+Add Pin To Net: Unknown Pin: Pin 1-3
+Add Pin To Net: Unknown Pin: Pin 1-4
+Add Pin To Net: Unknown Pin: Pin 1-5
+Add Pin To Net: Unknown Pin: Pin 1-6
+Add Pin To Net: Unknown Pin: Pin 1-7
+Add Pin To Net: Unknown Pin: Pin 1-8
+Add Pin To Net: Unknown Pin: Pin 1-9
+Add Pin To Net: Unknown Pin: Pin 1-10
+Add Pin To Net: Unknown Pin: Pin 1-12
+Add Pin To Net: Unknown Pin: Pin 1-13
+Add Pin To Net: Unknown Pin: Pin 1-15
+Add Pin To Net: Unknown Pin: Pin 1-16
+Add Pin To Net: Unknown Pin: Pin 1-17
+Add Pin To Net: Unknown Pin: Pin 1-18
+Add Pin To Net: Unknown Pin: Pin 1-19
+Add Pin To Net: Unknown Pin: Pin 1-20
+Add Pin To Net: Unknown Pin: Pin 1-21
+Add Pin To Net: Unknown Pin: Pin 1-22
+Add Pin To Net: Unknown Pin: Pin 1-23
+Add Pin To Net: Unknown Pin: Pin 1-24
+Add Pin To Net: Unknown Pin: Pin 2-1
+Add Pin To Net: Unknown Pin: Pin 2-2
+Add Pin To Net: Unknown Pin: Pin 2-3
+Add Pin To Net: Unknown Pin: Pin 2-4
+Add Pin To Net: Unknown Pin: Pin 2-5
+Add Pin To Net: Unknown Pin: Pin 2-6
+Add Pin To Net: Unknown Pin: Pin 2-7
+Add Pin To Net: Unknown Pin: Pin 2-8
+Add Pin To Net: Unknown Pin: Pin 2-9
+Add Pin To Net: Unknown Pin: Pin 2-10
+Add Pin To Net: Unknown Pin: Pin 2-12
+Add Pin To Net: Unknown Pin: Pin 2-13
+Add Pin To Net: Unknown Pin: Pin 2-15
+Add Pin To Net: Unknown Pin: Pin 2-16
+Add Pin To Net: Unknown Pin: Pin 2-17
+Add Pin To Net: Unknown Pin: Pin 2-18
+Add Pin To Net: Unknown Pin: Pin 2-19
+Add Pin To Net: Unknown Pin: Pin 2-20
+Add Pin To Net: Unknown Pin: Pin 2-21
+Add Pin To Net: Unknown Pin: Pin 2-22
+Add Pin To Net: Unknown Pin: Pin 2-23
+Add Pin To Net: Unknown Pin: Pin 2-24
+Add Pin To Net: Unknown Pin: Pin 3-1
+Add Pin To Net: Unknown Pin: Pin 3-2
+Add Pin To Net: Unknown Pin: Pin 3-3
+Add Pin To Net: Unknown Pin: Pin 3-4
+Add Pin To Net: Unknown Pin: Pin 3-5
+Add Pin To Net: Unknown Pin: Pin 3-6
+Add Pin To Net: Unknown Pin: Pin 3-7
+Add Pin To Net: Unknown Pin: Pin 3-8
+Add Pin To Net: Unknown Pin: Pin 3-9
+Add Pin To Net: Unknown Pin: Pin 3-10
+Add Pin To Net: Unknown Pin: Pin 3-12
+Add Pin To Net: Unknown Pin: Pin 3-13
+Add Pin To Net: Unknown Pin: Pin 3-15
+Add Pin To Net: Unknown Pin: Pin 3-16
+Add Pin To Net: Unknown Pin: Pin 3-17
+Add Pin To Net: Unknown Pin: Pin 3-18
+Add Pin To Net: Unknown Pin: Pin 3-19
+Add Pin To Net: Unknown Pin: Pin 3-20
+Add Pin To Net: Unknown Pin: Pin 3-21
+Add Pin To Net: Unknown Pin: Pin 3-22
+Add Pin To Net: Unknown Pin: Pin 3-23
+Add Pin To Net: Unknown Pin: Pin 3-24
+Add Pin To Net: Unknown Pin: Pin 4-1
+Add Pin To Net: Unknown Pin: Pin 4-2
+Add Pin To Net: Unknown Pin: Pin 4-3
+Add Pin To Net: Unknown Pin: Pin 4-4
+Add Pin To Net: Unknown Pin: Pin 4-5
+Add Pin To Net: Unknown Pin: Pin 4-6
+Add Pin To Net: Unknown Pin: Pin 4-7
+Add Pin To Net: Unknown Pin: Pin 4-8
+Add Pin To Net: Unknown Pin: Pin 4-9
+Add Pin To Net: Unknown Pin: Pin 4-10
+Add Pin To Net: Unknown Pin: Pin 4-12
+Add Pin To Net: Unknown Pin: Pin 4-13
+Add Pin To Net: Unknown Pin: Pin 4-15
+Add Pin To Net: Unknown Pin: Pin 4-16
+Add Pin To Net: Unknown Pin: Pin 4-17
+Add Pin To Net: Unknown Pin: Pin 4-18
+Add Pin To Net: Unknown Pin: Pin 4-19
+Add Pin To Net: Unknown Pin: Pin 4-20
+Add Pin To Net: Unknown Pin: Pin 4-21
+Add Pin To Net: Unknown Pin: Pin 4-22
+Add Pin To Net: Unknown Pin: Pin 4-23
+Add Pin To Net: Unknown Pin: Pin 4-24
+Add Pin To Net: Unknown Pin: Pin 5-1
+Add Pin To Net: Unknown Pin: Pin 5-2
+Add Pin To Net: Unknown Pin: Pin 5-3
+Add Pin To Net: Unknown Pin: Pin 5-4
+Add Pin To Net: Unknown Pin: Pin 5-5
+Add Pin To Net: Unknown Pin: Pin 5-6
+Add Pin To Net: Unknown Pin: Pin 5-7
+Add Pin To Net: Unknown Pin: Pin 5-8
+Add Pin To Net: Unknown Pin: Pin 5-9
+Add Pin To Net: Unknown Pin: Pin 5-10
+Add Pin To Net: Unknown Pin: Pin 5-12
+Add Pin To Net: Unknown Pin: Pin 5-13
+Add Pin To Net: Unknown Pin: Pin 5-15
+Add Pin To Net: Unknown Pin: Pin 5-16
+Add Pin To Net: Unknown Pin: Pin 5-17
+Add Pin To Net: Unknown Pin: Pin 5-18
+Add Pin To Net: Unknown Pin: Pin 5-19
+Add Pin To Net: Unknown Pin: Pin 5-20
+Add Pin To Net: Unknown Pin: Pin 5-21
+Add Pin To Net: Unknown Pin: Pin 5-22
+Add Pin To Net: Unknown Pin: Pin 5-23
+Add Pin To Net: Unknown Pin: Pin 5-24
+Add Pin To Net: Unknown Pin: Pin 6-1
+Add Pin To Net: Unknown Pin: Pin 6-2
+Add Pin To Net: Unknown Pin: Pin 6-3
+Add Pin To Net: Unknown Pin: Pin 6-4
+Add Pin To Net: Unknown Pin: Pin 6-5
+Add Pin To Net: Unknown Pin: Pin 6-6
+Add Pin To Net: Unknown Pin: Pin 6-7
+Add Pin To Net: Unknown Pin: Pin 6-8
+Add Pin To Net: Unknown Pin: Pin 6-9
+Add Pin To Net: Unknown Pin: Pin 6-10
+Add Pin To Net: Unknown Pin: Pin 6-12
+Add Pin To Net: Unknown Pin: Pin 6-13
+Add Pin To Net: Unknown Pin: Pin 6-15
+Add Pin To Net: Unknown Pin: Pin 6-16
+Add Pin To Net: Unknown Pin: Pin 6-17
+Add Pin To Net: Unknown Pin: Pin 6-18
+Add Pin To Net: Unknown Pin: Pin 6-19
+Add Pin To Net: Unknown Pin: Pin 6-20
+Add Pin To Net: Unknown Pin: Pin 6-21
+Add Pin To Net: Unknown Pin: Pin 6-22
+Add Pin To Net: Unknown Pin: Pin 6-23
+Add Pin To Net: Unknown Pin: Pin 6-24
+Add Pin To Net: Unknown Pin: Pin 7-1
+Add Pin To Net: Unknown Pin: Pin 7-2
+Add Pin To Net: Unknown Pin: Pin 7-3
+Add Pin To Net: Unknown Pin: Pin 7-4
+Add Pin To Net: Unknown Pin: Pin 7-5
+Add Pin To Net: Unknown Pin: Pin 7-6
+Add Pin To Net: Unknown Pin: Pin 7-7
+Add Pin To Net: Unknown Pin: Pin 7-8
+Add Pin To Net: Unknown Pin: Pin 7-9
+Add Pin To Net: Unknown Pin: Pin 7-10
+Add Pin To Net: Unknown Pin: Pin 7-12
+Add Pin To Net: Unknown Pin: Pin 7-13
+Add Pin To Net: Unknown Pin: Pin 7-15
+Add Pin To Net: Unknown Pin: Pin 7-16
+Add Pin To Net: Unknown Pin: Pin 7-17
+Add Pin To Net: Unknown Pin: Pin 7-18
+Add Pin To Net: Unknown Pin: Pin 7-19
+Add Pin To Net: Unknown Pin: Pin 7-20
+Add Pin To Net: Unknown Pin: Pin 7-21
+Add Pin To Net: Unknown Pin: Pin 7-22
+Add Pin To Net: Unknown Pin: Pin 7-23
+Add Pin To Net: Unknown Pin: Pin 7-24
+Add Pin To Net: Unknown Pin: Pin 8-1
+Add Pin To Net: Unknown Pin: Pin 8-2
+Add Pin To Net: Unknown Pin: Pin 8-3
+Add Pin To Net: Unknown Pin: Pin 8-4
+Add Pin To Net: Unknown Pin: Pin 8-5
+Add Pin To Net: Unknown Pin: Pin 8-6
+Add Pin To Net: Unknown Pin: Pin 8-7
+Add Pin To Net: Unknown Pin: Pin 8-8
+Add Pin To Net: Unknown Pin: Pin 8-9
+Add Pin To Net: Unknown Pin: Pin 8-10
+Add Pin To Net: Unknown Pin: Pin 8-12
+Add Pin To Net: Unknown Pin: Pin 8-13
+Add Pin To Net: Unknown Pin: Pin 8-15
+Add Pin To Net: Unknown Pin: Pin 8-16
+Add Pin To Net: Unknown Pin: Pin 8-17
+Add Pin To Net: Unknown Pin: Pin 8-18
+Add Pin To Net: Unknown Pin: Pin 8-19
+Add Pin To Net: Unknown Pin: Pin 8-20
+Add Pin To Net: Unknown Pin: Pin 8-21
+Add Pin To Net: Unknown Pin: Pin 8-22
+Add Pin To Net: Unknown Pin: Pin 8-23
+Add Pin To Net: Unknown Pin: Pin 8-24
+Add Pin To Net: Unknown Pin: Pin 9-1
+Add Pin To Net: Unknown Pin: Pin 9-2
+Add Pin To Net: Unknown Pin: Pin 9-3
+Add Pin To Net: Unknown Pin: Pin 9-4
+Add Pin To Net: Unknown Pin: Pin 9-5
+Add Pin To Net: Unknown Pin: Pin 9-6
+Add Pin To Net: Unknown Pin: Pin 9-7
+Add Pin To Net: Unknown Pin: Pin 9-8
+Add Pin To Net: Unknown Pin: Pin 9-9
+Add Pin To Net: Unknown Pin: Pin 9-10
+Add Pin To Net: Unknown Pin: Pin 9-12
+Add Pin To Net: Unknown Pin: Pin 9-13
+Add Pin To Net: Unknown Pin: Pin 9-15
+Add Pin To Net: Unknown Pin: Pin 9-16
+Add Pin To Net: Unknown Pin: Pin 9-17
+Add Pin To Net: Unknown Pin: Pin 9-18
+Add Pin To Net: Unknown Pin: Pin 9-19
+Add Pin To Net: Unknown Pin: Pin 9-20
+Add Pin To Net: Unknown Pin: Pin 9-21
+Add Pin To Net: Unknown Pin: Pin 9-22
+Add Pin To Net: Unknown Pin: Pin 9-23
+Add Pin To Net: Unknown Pin: Pin 9-24
+Add Pin To Net: Unknown Pin: Pin 10-1
+Add Pin To Net: Unknown Pin: Pin 10-2
+Add Pin To Net: Unknown Pin: Pin 10-3
+Add Pin To Net: Unknown Pin: Pin 10-4
+Add Pin To Net: Unknown Pin: Pin 10-5
+Add Pin To Net: Unknown Pin: Pin 10-6
+Add Pin To Net: Unknown Pin: Pin 10-7
+Add Pin To Net: Unknown Pin: Pin 10-8
+Add Pin To Net: Unknown Pin: Pin 10-9
+Add Pin To Net: Unknown Pin: Pin 10-10
+Add Pin To Net: Unknown Pin: Pin 10-12
+Add Pin To Net: Unknown Pin: Pin 10-13
+Add Pin To Net: Unknown Pin: Pin 10-15
+Add Pin To Net: Unknown Pin: Pin 10-16
+Add Pin To Net: Unknown Pin: Pin 10-17
+Add Pin To Net: Unknown Pin: Pin 10-18
+Add Pin To Net: Unknown Pin: Pin 10-19
+Add Pin To Net: Unknown Pin: Pin 10-20
+Add Pin To Net: Unknown Pin: Pin 10-21
+Add Pin To Net: Unknown Pin: Pin 10-22
+Add Pin To Net: Unknown Pin: Pin 10-23
+Add Pin To Net: Unknown Pin: Pin 10-24
+Add Pin To Net: Unknown Pin: Pin 11-1
+Add Pin To Net: Unknown Pin: Pin 11-2
+Add Pin To Net: Unknown Pin: Pin 11-3
+Add Pin To Net: Unknown Pin: Pin 11-4
+Add Pin To Net: Unknown Pin: Pin 11-5
+Add Pin To Net: Unknown Pin: Pin 11-6
+Add Pin To Net: Unknown Pin: Pin 11-7
+Add Pin To Net: Unknown Pin: Pin 11-8
+Add Pin To Net: Unknown Pin: Pin 11-9
+Add Pin To Net: Unknown Pin: Pin 11-10
+Add Pin To Net: Unknown Pin: Pin 11-12
+Add Pin To Net: Unknown Pin: Pin 11-13
+Add Pin To Net: Unknown Pin: Pin 11-15
+Add Pin To Net: Unknown Pin: Pin 11-16
+Add Pin To Net: Unknown Pin: Pin 11-17
+Add Pin To Net: Unknown Pin: Pin 11-18
+Add Pin To Net: Unknown Pin: Pin 11-19
+Add Pin To Net: Unknown Pin: Pin 11-20
+Add Pin To Net: Unknown Pin: Pin 11-21
+Add Pin To Net: Unknown Pin: Pin 11-22
+Add Pin To Net: Unknown Pin: Pin 11-23
+Add Pin To Net: Unknown Pin: Pin 11-24
+Add Pin To Net: Unknown Pin: Pin 12-1
+Add Pin To Net: Unknown Pin: Pin 12-2
+Add Pin To Net: Unknown Pin: Pin 12-3
+Add Pin To Net: Unknown Pin: Pin 12-4
+Add Pin To Net: Unknown Pin: Pin 12-5
+Add Pin To Net: Unknown Pin: Pin 12-6
+Add Pin To Net: Unknown Pin: Pin 12-7
+Add Pin To Net: Unknown Pin: Pin 12-8
+Add Pin To Net: Unknown Pin: Pin 12-9
+Add Pin To Net: Unknown Pin: Pin 12-10
+Add Pin To Net: Unknown Pin: Pin 12-12
+Add Pin To Net: Unknown Pin: Pin 12-13
+Add Pin To Net: Unknown Pin: Pin 12-15
+Add Pin To Net: Unknown Pin: Pin 12-16
+Add Pin To Net: Unknown Pin: Pin 12-17
+Add Pin To Net: Unknown Pin: Pin 12-18
+Add Pin To Net: Unknown Pin: Pin 12-19
+Add Pin To Net: Unknown Pin: Pin 12-20
+Add Pin To Net: Unknown Pin: Pin 12-21
+Add Pin To Net: Unknown Pin: Pin 12-22
+Add Pin To Net: Unknown Pin: Pin 12-23
+Add Pin To Net: Unknown Pin: Pin 12-24
+Add Pin To Net: Unknown Pin: Pin 13-1
+Add Pin To Net: Unknown Pin: Pin 13-2
+Add Pin To Net: Unknown Pin: Pin 13-3
+Add Pin To Net: Unknown Pin: Pin 13-4
+Add Pin To Net: Unknown Pin: Pin 13-5
+Add Pin To Net: Unknown Pin: Pin 13-6
+Add Pin To Net: Unknown Pin: Pin 13-7
+Add Pin To Net: Unknown Pin: Pin 13-8
+Add Pin To Net: Unknown Pin: Pin 13-9
+Add Pin To Net: Unknown Pin: Pin 13-10
+Add Pin To Net: Unknown Pin: Pin 13-12
+Add Pin To Net: Unknown Pin: Pin 13-13
+Add Pin To Net: Unknown Pin: Pin 13-15
+Add Pin To Net: Unknown Pin: Pin 13-16
+Add Pin To Net: Unknown Pin: Pin 13-17
+Add Pin To Net: Unknown Pin: Pin 13-18
+Add Pin To Net: Unknown Pin: Pin 13-19
+Add Pin To Net: Unknown Pin: Pin 13-20
+Add Pin To Net: Unknown Pin: Pin 13-21
+Add Pin To Net: Unknown Pin: Pin 13-22
+Add Pin To Net: Unknown Pin: Pin 13-23
+Add Pin To Net: Unknown Pin: Pin 13-24
+Add Pin To Net: Unknown Pin: Pin 14-1
+Add Pin To Net: Unknown Pin: Pin 14-2
+Add Pin To Net: Unknown Pin: Pin 14-3
+Add Pin To Net: Unknown Pin: Pin 14-4
+Add Pin To Net: Unknown Pin: Pin 14-5
+Add Pin To Net: Unknown Pin: Pin 14-6
+Add Pin To Net: Unknown Pin: Pin 14-7
+Add Pin To Net: Unknown Pin: Pin 14-8
+Add Pin To Net: Unknown Pin: Pin 14-9
+Add Pin To Net: Unknown Pin: Pin 14-10
+Add Pin To Net: Unknown Pin: Pin 14-12
+Add Pin To Net: Unknown Pin: Pin 14-13
+Add Pin To Net: Unknown Pin: Pin 14-15
+Add Pin To Net: Unknown Pin: Pin 14-16
+Add Pin To Net: Unknown Pin: Pin 14-17
+Add Pin To Net: Unknown Pin: Pin 14-18
+Add Pin To Net: Unknown Pin: Pin 14-19
+Add Pin To Net: Unknown Pin: Pin 14-20
+Add Pin To Net: Unknown Pin: Pin 14-21
+Add Pin To Net: Unknown Pin: Pin 14-22
+Add Pin To Net: Unknown Pin: Pin 14-23
+Add Pin To Net: Unknown Pin: Pin 14-24
+Add Pin To Net: Unknown Pin: Pin 15-1
+Add Pin To Net: Unknown Pin: Pin 15-2
+Add Pin To Net: Unknown Pin: Pin 15-3
+Add Pin To Net: Unknown Pin: Pin 15-4
+Add Pin To Net: Unknown Pin: Pin 15-5
+Add Pin To Net: Unknown Pin: Pin 15-6
+Add Pin To Net: Unknown Pin: Pin 15-7
+Add Pin To Net: Unknown Pin: Pin 15-8
+Add Pin To Net: Unknown Pin: Pin 15-9
+Add Pin To Net: Unknown Pin: Pin 15-10
+Add Pin To Net: Unknown Pin: Pin 15-12
+Add Pin To Net: Unknown Pin: Pin 15-13
+Add Pin To Net: Unknown Pin: Pin 15-15
+Add Pin To Net: Unknown Pin: Pin 15-16
+Add Pin To Net: Unknown Pin: Pin 15-17
+Add Pin To Net: Unknown Pin: Pin 15-18
+Add Pin To Net: Unknown Pin: Pin 15-19
+Add Pin To Net: Unknown Pin: Pin 15-20
+Add Pin To Net: Unknown Pin: Pin 15-21
+Add Pin To Net: Unknown Pin: Pin 15-22
+Add Pin To Net: Unknown Pin: Pin 15-23
+Add Pin To Net: Unknown Pin: Pin 15-24
+Add Pin To Net: Unknown Pin: Pin 16-1
+Add Pin To Net: Unknown Pin: Pin 16-2
+Add Pin To Net: Unknown Pin: Pin 16-3
+Add Pin To Net: Unknown Pin: Pin 16-4
+Add Pin To Net: Unknown Pin: Pin 16-5
+Add Pin To Net: Unknown Pin: Pin 16-6
+Add Pin To Net: Unknown Pin: Pin 16-7
+Add Pin To Net: Unknown Pin: Pin 16-8
+Add Pin To Net: Unknown Pin: Pin 16-9
+Add Pin To Net: Unknown Pin: Pin 16-10
+Add Pin To Net: Unknown Pin: Pin 16-12
+Add Pin To Net: Unknown Pin: Pin 16-13
+Add Pin To Net: Unknown Pin: Pin 16-15
+Add Pin To Net: Unknown Pin: Pin 16-16
+Add Pin To Net: Unknown Pin: Pin 16-17
+Add Pin To Net: Unknown Pin: Pin 16-18
+Add Pin To Net: Unknown Pin: Pin 16-19
+Add Pin To Net: Unknown Pin: Pin 16-20
+Add Pin To Net: Unknown Pin: Pin 16-21
+Add Pin To Net: Unknown Pin: Pin 16-22
+Add Pin To Net: Unknown Pin: Pin 16-23
+Add Pin To Net: Unknown Pin: Pin 16-24
+Added Pin To Net: NetName=RE0 Pin=J14-1
+Added Pin To Net: NetName=WE0 Pin=J14-2
+Added Pin To Net: NetName=RE1 Pin=J14-3
+Added Pin To Net: NetName=WE1 Pin=J14-4
+Added Pin To Net: NetName=RE2 Pin=J14-5
+Added Pin To Net: NetName=WE2 Pin=J14-6
+Added Pin To Net: NetName=RE3 Pin=J14-7
+Added Pin To Net: NetName=WE3 Pin=J14-8
+Added Pin To Net: NetName=RE4 Pin=J14-9
+Added Pin To Net: NetName=WE4 Pin=J14-10
+Added Pin To Net: NetName=RE5 Pin=J52-1
+Added Pin To Net: NetName=WE5 Pin=J52-2
+Added Pin To Net: NetName=RE6 Pin=J52-3
+Added Pin To Net: NetName=WE6 Pin=J52-4
+Added Pin To Net: NetName=RE7 Pin=J52-5
+Added Pin To Net: NetName=WE7 Pin=J52-6
+Added Pin To Net: NetName=RE8 Pin=J52-7
+Added Pin To Net: NetName=WE8 Pin=J52-8
+Added Pin To Net: NetName=RE9 Pin=J52-9
+Added Pin To Net: NetName=WE9 Pin=J52-10
+Added Pin To Net: NetName=RE10 Pin=J53-1
+Added Pin To Net: NetName=WE10 Pin=J53-2
+Added Pin To Net: NetName=RE11 Pin=J53-3
+Added Pin To Net: NetName=WE11 Pin=J53-4
+Added Pin To Net: NetName=RE12 Pin=J53-5
+Added Pin To Net: NetName=WE12 Pin=J53-6
+Added Pin To Net: NetName=RE13 Pin=J53-7
+Added Pin To Net: NetName=WE13 Pin=J53-8
+Added Pin To Net: NetName=RE14 Pin=J53-9
+Added Pin To Net: NetName=WE14 Pin=J53-10
+Added Pin To Net: NetName=A0 Pin=J54-1
+Added Pin To Net: NetName=A1 Pin=J54-2
+Added Pin To Net: NetName=A2 Pin=J54-3
+Added Pin To Net: NetName=A3 Pin=J54-4
+Added Pin To Net: NetName=RE Pin=J54-5
+Added Pin To Net: NetName=WE Pin=J54-6
+Added Pin To Net: NetName=RE15 Pin=J54-7
+Added Pin To Net: NetName=WE15 Pin=J54-8
+Added Pin To Net: NetName=+5 Pin=J54-9
+Added Pin To Net: NetName=GND Pin=J54-10
+Added Pin To Net: NetName=A0 Pin=J55-1
+Added Pin To Net: NetName=A1 Pin=J55-2
+Added Pin To Net: NetName=A2 Pin=J55-3
+Added Pin To Net: NetName=A3 Pin=J55-4
+Added Pin To Net: NetName=+5 Pin=J55-9
+Added Pin To Net: NetName=GND Pin=J55-10
+Add Class Member: Failed to add class member : Component 1 8bit_reg_v2
+Add Class Member: Failed to add class member : Component 2 8bit_reg_v2
+Add Class Member: Failed to add class member : Component 3 8bit_reg_v2
+Add Class Member: Failed to add class member : Component 4 8bit_reg_v2
+Add Class Member: Failed to add class member : Component 5 8bit_reg_v2
+Add Class Member: Failed to add class member : Component 6 8bit_reg_v2
+Add Class Member: Failed to add class member : Component 7 8bit_reg_v2
+Add Class Member: Failed to add class member : Component 8 8bit_reg_v2
+Add Class Member: Failed to add class member : Component 9 8bit_reg_v2
+Add Class Member: Failed to add class member : Component 10 8bit_reg_v2
+Add Class Member: Failed to add class member : Component 11 8bit_reg_v2
+Add Class Member: Failed to add class member : Component 12 8bit_reg_v2
+Add Class Member: Failed to add class member : Component 13 8bit_reg_v2
+Add Class Member: Failed to add class member : Component 14 8bit_reg_v2
+Add Class Member: Failed to add class member : Component 15 8bit_reg_v2
+Add Class Member: Failed to add class member : Component 16 8bit_reg_v2
+Added Member To Class: ClassName=8bit_RAM Member=Component J52 NPPN101BFCN-RC
+Added Member To Class: ClassName=8bit_RAM Member=Component J53 NPPN101BFCN-RC
+Added Member To Class: ClassName=8bit_RAM Member=Component J54 NPPN101BFCN-RC
+Added Member To Class: ClassName=8bit_RAM Member=Component J55 NRPN101PAEN-RC

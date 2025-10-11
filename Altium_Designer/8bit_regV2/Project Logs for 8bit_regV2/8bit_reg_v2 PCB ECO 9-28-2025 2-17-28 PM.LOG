@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=+5 Pin=C2-2
+Change Footprint: Footprint Not Found FP-RR1220-IPC_C
+Change Footprint: Footprint Not Found FP-RR1220-IPC_C
+Change Footprint: Footprint Not Found FP-RR1220-IPC_C
+Change Footprint: Footprint Not Found FP-RR1220-IPC_C
+Change Footprint: Footprint Not Found FP-RR1220-IPC_C
+Change Footprint: Footprint Not Found FP-RR1220-IPC_C
+Change Footprint: Footprint Not Found FP-RR1220-IPC_C
+Change Footprint: Footprint Not Found FP-RR1220-IPC_C
+Added Component: Designator=C1(CAPC1608X90X40NL10T20)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Change Net Name : Old Net Name=NetDS1_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetDS2_1 New Net Name=NetD2_1
+Change Net Name : Old Net Name=NetDS3_1 New Net Name=NetD3_1
+Change Net Name : Old Net Name=NetDS4_1 New Net Name=NetD4_1
+Change Net Name : Old Net Name=NetDS5_1 New Net Name=NetD5_1
+Change Net Name : Old Net Name=NetDS6_1 New Net Name=NetD6_1
+Change Net Name : Old Net Name=NetDS7_1 New Net Name=NetD7_1
+Change Net Name : Old Net Name=NetDS8_1 New Net Name=NetD8_1
+Added Member To Class: ClassName=8bit_reg_v2 Member=Component C1 Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=8bit_reg_v2 Member=Component D1 19-217/R6C-AL1M2VY/3T
+Added Member To Class: ClassName=8bit_reg_v2 Member=Component D2 19-217/R6C-AL1M2VY/3T
+Added Member To Class: ClassName=8bit_reg_v2 Member=Component D3 19-217/R6C-AL1M2VY/3T
+Added Member To Class: ClassName=8bit_reg_v2 Member=Component D4 19-217/R6C-AL1M2VY/3T
+Added Member To Class: ClassName=8bit_reg_v2 Member=Component D5 19-217/R6C-AL1M2VY/3T
+Added Member To Class: ClassName=8bit_reg_v2 Member=Component D6 19-217/R6C-AL1M2VY/3T
+Added Member To Class: ClassName=8bit_reg_v2 Member=Component D7 19-217/R6C-AL1M2VY/3T
+Added Member To Class: ClassName=8bit_reg_v2 Member=Component D8 19-217/R6C-AL1M2VY/3T
+Added Member To Class: ClassName=8bit_reg_v2 Member=Component P3 GRPB041VWVN-RC
+Added Member To Class: ClassName=8bit_reg_v2 Member=Component P4 GRPB041VWVN-RC

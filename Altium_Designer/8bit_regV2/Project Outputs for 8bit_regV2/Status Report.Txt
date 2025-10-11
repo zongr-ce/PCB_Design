@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [8bit_regV2.PrjPcb]
+   Generated File[8bit_reg_v2-Plated.TXT]
+   Generated File[8bit_reg_v2.LDP]
+   Generated File[8bit_reg_v2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:02:39 PM On 10/2/2025

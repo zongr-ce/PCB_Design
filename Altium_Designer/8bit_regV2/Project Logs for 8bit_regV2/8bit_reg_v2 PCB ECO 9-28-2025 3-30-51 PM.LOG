@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=Read_Enable Pin=P4-1
+Removed Pin From Net: NetName=CLK Pin=P4-2
+Removed Pin From Net: NetName=CLR Pin=P4-3
+Removed Pin From Net: NetName=Write_Enable Pin=P4-4
+Removed Member From Class: ClassName=8bit_reg_v2 Member=P4
+Added Pin To Net: NetName=CLK Pin=J1-9
+Added Pin To Net: NetName=CLR Pin=J1-10
+Added Pin To Net: NetName=Read_Enable Pin=J2-9
+Added Pin To Net: NetName=Write_Enable Pin=J2-10

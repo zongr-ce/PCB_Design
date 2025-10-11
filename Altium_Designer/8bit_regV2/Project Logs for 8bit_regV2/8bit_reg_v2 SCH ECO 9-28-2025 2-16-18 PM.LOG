@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=R1 Old Footprint=RESC1608X55X30NL15T15 New Footprint=FP-RR1220-IPC_C
+Change Component Footprint: Designator=R2 Old Footprint=RESC1608X55X30NL15T15 New Footprint=FP-RR1220-IPC_C
+Change Component Footprint: Designator=R3 Old Footprint=RESC1608X55X30NL15T15 New Footprint=FP-RR1220-IPC_C
+Change Component Footprint: Designator=R4 Old Footprint=RESC1608X55X30NL15T15 New Footprint=FP-RR1220-IPC_C
+Change Component Footprint: Designator=R5 Old Footprint=RESC1608X55X30NL15T15 New Footprint=FP-RR1220-IPC_C
+Change Component Footprint: Designator=R6 Old Footprint=RESC1608X55X30NL15T15 New Footprint=FP-RR1220-IPC_C
+Change Component Footprint: Designator=R7 Old Footprint=RESC1608X55X30NL15T15 New Footprint=FP-RR1220-IPC_C
+Change Component Footprint: Designator=R8 Old Footprint=RESC1608X55X30NL15T15 New Footprint=FP-RR1220-IPC_C
+Change Component Comment: Designator=R1 Old Comment=ERJ-3RQFR56V New Comment=RR1220P-561-D
+Change Component Comment: Designator=R2 Old Comment=ERJ-3RQFR56V New Comment=RR1220P-561-D
+Change Component Comment: Designator=R3 Old Comment=ERJ-3RQFR56V New Comment=RR1220P-561-D
+Change Component Comment: Designator=R4 Old Comment=ERJ-3RQFR56V New Comment=RR1220P-561-D
+Change Component Comment: Designator=R5 Old Comment=ERJ-3RQFR56V New Comment=RR1220P-561-D
+Change Component Comment: Designator=R6 Old Comment=ERJ-3RQFR56V New Comment=RR1220P-561-D
+Change Component Comment: Designator=R7 Old Comment=ERJ-3RQFR56V New Comment=RR1220P-561-D
+Change Component Comment: Designator=R8 Old Comment=ERJ-3RQFR56V New Comment=RR1220P-561-D
+Change Component Designator: OldDesignator=DS1 NewDesignator=D1
+Change Component Designator: OldDesignator=DS2 NewDesignator=D2
+Change Component Designator: OldDesignator=DS3 NewDesignator=D3
+Change Component Designator: OldDesignator=DS4 NewDesignator=D4
+Change Component Designator: OldDesignator=DS5 NewDesignator=D5
+Change Component Designator: OldDesignator=DS6 NewDesignator=D6
+Change Component Designator: OldDesignator=DS7 NewDesignator=D7
+Change Component Designator: OldDesignator=DS8 NewDesignator=D8
+Change Component Designator: OldDesignator=P1 NewDesignator=P3
+Change Component Designator: OldDesignator=P2 NewDesignator=P4

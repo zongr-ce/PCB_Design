@@ -1,0 +1,43 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\4bit_decoder\Project Outputs for 4bit_decoder\Pick Place for 4bit_decoder.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       02/10/25
+Time:       22:14
+Revision:   8395fe84371c2e3cb324781191ae1adb623f9d0a
+Variant:    No variations
+Units used: mil
+
+Designator Comment                             Layer       Footprint             Center-X(mil) Center-Y(mil) Rotation Description                                                                                             
+U17        SN74HC21DR                          TopLayer    FP-D0014A-MFG         6791.339      4668.307      90       "2-ch, 4-input, 2-V to 6-V 5.2 mA drive strength AND gate 14-SOIC -40 to 85"                            
+U16        SN74HC7001DR                        TopLayer    D0014A_L              6744.685      5107.087      0        "4-ch, 4-input 2-V to 6-V 5.2-mA drive strength AND gate with Schmitt-Trigger inputs 14-SOIC -40 to 85" 
+U15        SN74HC21DR                          TopLayer    FP-D0014A-MFG         6145.416      4668.307      90       "2-ch, 4-input, 2-V to 6-V 5.2 mA drive strength AND gate 14-SOIC -40 to 85"                            
+U14        SN74HC7001DR                        TopLayer    D0014A_L              6098.762      5107.086      0        "4-ch, 4-input 2-V to 6-V 5.2-mA drive strength AND gate with Schmitt-Trigger inputs 14-SOIC -40 to 85" 
+U13        SN74HC21DR                          TopLayer    FP-D0014A-MFG         5505.202      4668.307      90       "2-ch, 4-input, 2-V to 6-V 5.2 mA drive strength AND gate 14-SOIC -40 to 85"                            
+U12        SN74HC7001DR                        TopLayer    D0014A_L              5458.548      5107.087      0        "4-ch, 4-input 2-V to 6-V 5.2-mA drive strength AND gate with Schmitt-Trigger inputs 14-SOIC -40 to 85" 
+U11        SN74HC21DR                          TopLayer    FP-D0014A-MFG         4864.988      4668.307      90       "2-ch, 4-input, 2-V to 6-V 5.2 mA drive strength AND gate 14-SOIC -40 to 85"                            
+U10        SN74HC7001DR                        TopLayer    D0014A_L              4818.334      5107.086      0        "4-ch, 4-input 2-V to 6-V 5.2-mA drive strength AND gate with Schmitt-Trigger inputs 14-SOIC -40 to 85" 
+U9         SN74HC21DR                          TopLayer    FP-D0014A-MFG         4224.776      4668.307      90       "2-ch, 4-input, 2-V to 6-V 5.2 mA drive strength AND gate 14-SOIC -40 to 85"                            
+U8         SN74HC7001DR                        TopLayer    D0014A_L              4179.463      5107.086      0        "4-ch, 4-input 2-V to 6-V 5.2-mA drive strength AND gate with Schmitt-Trigger inputs 14-SOIC -40 to 85" 
+U7         SN74ACT240DW                        BottomLayer DW0020A_M             7662.402      4694.881      270      "Buffer/Line Driver 8-Channel Inverting 3-Straight CMOS 20-Pin SOIC"                                    
+U6         SN74HC21DR                          TopLayer    FP-D0014A-MFG         3584.562      4668.307      90       "2-ch, 4-input, 2-V to 6-V 5.2 mA drive strength AND gate 14-SOIC -40 to 85"                            
+U5         SN74HC7001DR                        TopLayer    D0014A_L              3537.909      5107.086      0        "4-ch, 4-input 2-V to 6-V 5.2-mA drive strength AND gate with Schmitt-Trigger inputs 14-SOIC -40 to 85" 
+U4         SN74HC21DR                          TopLayer    FP-D0014A-MFG         2932.874      4668.307      90       "2-ch, 4-input, 2-V to 6-V 5.2 mA drive strength AND gate 14-SOIC -40 to 85"                            
+J4         NRPN101PAEN-RC                      TopLayer    FP-NRPN101PAEN-RC-MFG 5812.008      5541.338      0        "CONN HEADER VERT 10POS 2MM"                                                                            
+J3         NRPN101PAEN-RC                      TopLayer    FP-NRPN101PAEN-RC-MFG 7453.740      5541.338      0        "CONN HEADER VERT 10POS 2MM"                                                                            
+LED3       19-217/R6C-AL1M2VY/3T               TopLayer    EVRL-0603-2_V         7778.543      4800.197      0        "Chip LED, Red, 5 V, 25 mA, -40 to 85 degC, 2-Pin SMD (0603), RoHS, Tape and Reel"                      
+LED2       19-217/R6C-AL1M2VY/3T               TopLayer    EVRL-0603-2_V         7790.354      4572.507      0        "Chip LED, Red, 5 V, 25 mA, -40 to 85 degC, 2-Pin SMD (0603), RoHS, Tape and Reel"                      
+LED1       19-217/R6C-AL1M2VY/3T               TopLayer    EVRL-0603-2_V         7790.352      4344.816      0        "Chip LED, Red, 5 V, 25 mA, -40 to 85 degC, 2-Pin SMD (0603), RoHS, Tape and Reel"                      
+LED0       19-217/R6C-AL1M2VY/3T               TopLayer    EVRL-0603-2_V         7800.196      4117.126      0        "Chip LED, Red, 5 V, 25 mA, -40 to 85 degC, 2-Pin SMD (0603), RoHS, Tape and Reel"                      
+U3         SN74HC7001DR                        TopLayer    D0014A_L              2897.695      5107.086      0        "4-ch, 4-input 2-V to 6-V 5.2-mA drive strength AND gate with Schmitt-Trigger inputs 14-SOIC -40 to 85" 
+U2         SN74HC21DR                          TopLayer    FP-D0014A-MFG         2304.134      4668.307      90       "2-ch, 4-input, 2-V to 6-V 5.2 mA drive strength AND gate 14-SOIC -40 to 85"                            
+U1         SN74HC7001DR                        TopLayer    D0014A_L              2270.669      5107.086      0        "4-ch, 4-input 2-V to 6-V 5.2-mA drive strength AND gate with Schmitt-Trigger inputs 14-SOIC -40 to 85" 
+R4         ERJ-3RQFR56V                        TopLayer    RESC1608X55X30NL15T15 7613.978      4800.197      0        ""                                                                                                      
+R3         ERJ-3RQFR56V                        TopLayer    RESC1608X55X30NL15T15 7613.978      4572.507      0        ""                                                                                                      
+R2         ERJ-3RQFR56V                        TopLayer    RESC1608X55X30NL15T15 7613.978      4344.817      0        ""                                                                                                      
+R1         ERJ-3RQFR56V                        TopLayer    RESC1608X55X30NL15T15 7613.978      4117.126      0        ""                                                                                                      
+J2         NRPN101PAEN-RC                      TopLayer    FP-NRPN101PAEN-RC-MFG 4170.278      5541.337      0        "CONN HEADER VERT 10POS 2MM"                                                                            
+J1         NRPN101PAEN-RC                      TopLayer    FP-NRPN101PAEN-RC-MFG 2528.544      5541.337      0        "CONN HEADER VERT 10POS 2MM"                                                                            
+C1         "Capacitor 100 nF +/-10% 50 V 0603" TopLayer    CAPC1608X90X40NL10T20 7759.843      5402.559      180      "Chip Capacitor, 100 nF, +/- 10%, 50 V, 0603 (1608 Metric)"                                             

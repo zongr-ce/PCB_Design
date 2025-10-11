@@ -1,0 +1,36 @@
+Altium Designer Pick and Place Locations
+C:\Users\zongr\OneDrive\Desktop\Projects\Altium Designer\Test_Project\Project Outputs for 8bit_regV2\Pick Place for 8bit_reg_v2.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       02/10/25
+Time:       21:45
+Revision:   573175e9b1b624d2bdfd47375ee6b1ad5b679575
+Variant:    No variations
+Units used: mil
+
+Designator Comment                             Layer       Footprint             Center-X(mil) Center-Y(mil) Rotation Description                                                                                                
+U3         SN74ACT244IDWREP                    TopLayer    DW0020A_L             3467.520      3003.938      270      "Enhanced Product Octal Buffers/Drivers With 3-State Outputs, DW0020A, LARGE T&R"                          
+U2         SN74LS173AD                         TopLayer    D0016A_M              3677.166      3813.978      90       "TEXAS INSTRUMENTS SN74LS173AD Flip-Flop, D, 17 ns, 50 MHz, 24 mA, SOIC, 16 Pins"                          
+U1         SN74LS173AD                         TopLayer    D0016A_M              3063.977      3814.961      90       "TEXAS INSTRUMENTS SN74LS173AD Flip-Flop, D, 17 ns, 50 MHz, 24 mA, SOIC, 16 Pins"                          
+R8         ERJ-3RQFR56V                        TopLayer    RESC1608X55X30NL15T15 4062.008      2574.803      270      ""                                                                                                         
+R7         ERJ-3RQFR56V                        TopLayer    RESC1608X55X30NL15T15 4062.992      2799.635      270      ""                                                                                                         
+R6         ERJ-3RQFR56V                        TopLayer    RESC1608X55X30NL15T15 4062.992      3029.386      270      ""                                                                                                         
+R5         ERJ-3RQFR56V                        TopLayer    RESC1608X55X30NL15T15 4062.992      3259.141      270      ""                                                                                                         
+R4         ERJ-3RQFR56V                        TopLayer    RESC1608X55X30NL15T15 4062.992      3488.893      270      ""                                                                                                         
+R3         ERJ-3RQFR56V                        TopLayer    RESC1608X55X30NL15T15 4062.992      3718.645      270      ""                                                                                                         
+R2         ERJ-3RQFR56V                        TopLayer    RESC1608X55X30NL15T15 4062.992      3921.822      270      ""                                                                                                         
+R1         ERJ-3RQFR56V                        TopLayer    RESC1608X55X30NL15T15 4067.914      4145.669      270      ""                                                                                                         
+P3         GRPB041VWVN-RC                      BottomLayer SLIN-GRPB041VWVN-RC_V 2866.141      3367.126      270      "Male Header, Pitch 1.27 mm, 1 x 4 Position, Height 4 mm, Tail Length 2.3 mm, -40 to 105 degC, RoHS, Bulk" 
+J2         NRPN101PAEN-RC                      BottomLayer FP-NRPN101PAEN-RC-MFG 3521.655      4262.796      0        "CONN HEADER VERT 10POS 2MM"                                                                               
+J1         NRPN101PAEN-RC                      BottomLayer FP-NRPN101PAEN-RC-MFG 3521.653      2461.614      0        "CONN HEADER VERT 10POS 2MM"                                                                               
+LED7       19-217/R6C-AL1M2VY/3T               TopLayer    EVRL-0603-2_V         4177.166      2551.181      0        "Chip LED, Red, 5 V, 25 mA, -40 to 85 degC, 2-Pin SMD (0603), RoHS, Tape and Reel"                         
+LED6       19-217/R6C-AL1M2VY/3T               TopLayer    EVRL-0603-2_V         4178.149      2775.730      0        "Chip LED, Red, 5 V, 25 mA, -40 to 85 degC, 2-Pin SMD (0603), RoHS, Tape and Reel"                         
+LED5       19-217/R6C-AL1M2VY/3T               TopLayer    EVRL-0603-2_V         4178.150      3005.202      0        "Chip LED, Red, 5 V, 25 mA, -40 to 85 degC, 2-Pin SMD (0603), RoHS, Tape and Reel"                         
+LED4       19-217/R6C-AL1M2VY/3T               TopLayer    EVRL-0603-2_V         4178.149      3234.674      0        "Chip LED, Red, 5 V, 25 mA, -40 to 85 degC, 2-Pin SMD (0603), RoHS, Tape and Reel"                         
+LED3       19-217/R6C-AL1M2VY/3T               TopLayer    EVRL-0603-2_V         4178.150      3464.144      0        "Chip LED, Red, 5 V, 25 mA, -40 to 85 degC, 2-Pin SMD (0603), RoHS, Tape and Reel"                         
+LED2       19-217/R6C-AL1M2VY/3T               TopLayer    EVRL-0603-2_V         4178.149      3693.616      0        "Chip LED, Red, 5 V, 25 mA, -40 to 85 degC, 2-Pin SMD (0603), RoHS, Tape and Reel"                         
+LED1       19-217/R6C-AL1M2VY/3T               TopLayer    EVRL-0603-2_V         4178.150      3923.086      0        "Chip LED, Red, 5 V, 25 mA, -40 to 85 degC, 2-Pin SMD (0603), RoHS, Tape and Reel"                         
+LED0       19-217/R6C-AL1M2VY/3T               TopLayer    EVRL-0603-2_V         4178.149      4152.558      0        "Chip LED, Red, 5 V, 25 mA, -40 to 85 degC, 2-Pin SMD (0603), RoHS, Tape and Reel"                         
+C1         "Capacitor 100 nF +/-10% 50 V 0603" TopLayer    CAPC1608X90X40NL10T20 3070.866      3151.575      90       "Chip Capacitor, 100 nF, +/- 10%, 50 V, 0603 (1608 Metric)"                                                
