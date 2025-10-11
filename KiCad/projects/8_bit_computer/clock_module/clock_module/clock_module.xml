@@ -1,0 +1,1075 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\zogtr\Desktop\programming\KiCad\KiCad\projects\8_bit_computer\clock_module\clock_module\clock_module.kicad_sch</source>
+    <date>8/5/2022 9:49:38 PM</date>
+    <tool>Eeschema (6.0.7)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>clock_module</title>
+        <company/>
+        <rev>v01</rev>
+        <date>2022-08-05</date>
+        <source>clock_module.kicad_sch</source>
+        <comment number="1" value="Author: Grace Zongo"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10uF</value>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D5.0mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd246932-097f-4217-b3e1-4eedb2268388</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF</value>
+      <footprint>Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>293339d9-d580-4509-82f0-b776c388c525</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.01uF</value>
+      <footprint>Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>512eadae-4cb7-4d3f-9457-7b57bd2b8242</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1uF</value>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D5.0mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1993078b-c985-46b3-9133-47a9ecdbcb88</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1uF</value>
+      <footprint>Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7bb5c3d4-1d94-4d4d-aa11-b59f3c74a807</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1uF</value>
+      <footprint>Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39087b17-4d51-4349-a328-9af4c24e9aa1</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.01uF</value>
+      <footprint>Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9730dd7c-f62c-4ab4-a749-2345b51fa7fe</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1uF</value>
+      <footprint>Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>883914db-e56e-456b-8076-ad9c1c88bffe</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.1uF</value>
+      <footprint>Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f43a52a-dac2-4194-bf85-b289e57f331c</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.1uF</value>
+      <footprint>Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f780780e-d318-4902-8339-8fa68b73f485</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>0.01uF</value>
+      <footprint>Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b8192e0-1f1f-4085-8410-2e50a17fcc40</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>0.1uF</value>
+      <footprint>Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>955c2ee1-e176-4743-863b-591f9ed57adb</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>RED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f5c2eff-8372-4056-a905-bb627313a996</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>BLUE</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60c11ad8-f5a5-4380-b6a2-0a3c68f3cab0</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>PJ-102A</value>
+      <footprint>digikey-footprints:Barrel_Jack_5.5mmODx2.1mmID_PJ-102A</footprint>
+      <datasheet>https://www.cui.com/product/resource/digikeypdf/pj-102a.pdf</datasheet>
+      <fields>
+        <field name="Category">Connectors, Interconnects</field>
+        <field name="DK_Datasheet_Link">https://www.cui.com/product/resource/digikeypdf/pj-102a.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/cui-inc/PJ-102A/CP-102A-ND/275425</field>
+        <field name="Description">CONN PWR JACK 2X5.5MM SOLDER</field>
+        <field name="Digi-Key_PN">CP-102A-ND</field>
+        <field name="Family">Barrel - Power Connectors</field>
+        <field name="MPN">PJ-102A</field>
+        <field name="Manufacturer">CUI Inc.</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="dk_Barrel-Power-Connectors" part="PJ-102A" description="CONN PWR JACK 2X5.5MM SOLDER"/>
+      <property name="Digi-Key_PN" value="CP-102A-ND"/>
+      <property name="MPN" value="PJ-102A"/>
+      <property name="Category" value="Connectors, Interconnects"/>
+      <property name="Family" value="Barrel - Power Connectors"/>
+      <property name="DK_Datasheet_Link" value="https://www.cui.com/product/resource/digikeypdf/pj-102a.pdf"/>
+      <property name="DK_Detail_Page" value="/product-detail/en/cui-inc/PJ-102A/CP-102A-ND/275425"/>
+      <property name="Description" value="CONN PWR JACK 2X5.5MM SOLDER"/>
+      <property name="Manufacturer" value="CUI Inc."/>
+      <property name="Status" value="Active"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11781019-4424-4e23-a96b-90b686e2f3e5</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>0022232041</value>
+      <footprint>digikey-footprints:PinHeader_1x4_P2.54mm_Drill1.02mm</footprint>
+      <datasheet>https://www.molex.com/pdm_docs/sd/022232041_sd.pdf</datasheet>
+      <fields>
+        <field name="Category">Connectors, Interconnects</field>
+        <field name="DK_Datasheet_Link">https://www.molex.com/pdm_docs/sd/022232041_sd.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/molex/0022232041/WM4202-ND/26671</field>
+        <field name="Description">CONN HEADER VERT 4POS 2.54MM</field>
+        <field name="Digi-Key_PN">WM4202-ND</field>
+        <field name="Family">Rectangular Connectors - Headers, Male Pins</field>
+        <field name="MPN">0022232041</field>
+        <field name="Manufacturer">Molex</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="dk_Rectangular-Connectors-Headers-Male-Pins" part="0022232041" description="CONN HEADER VERT 4POS 2.54MM"/>
+      <property name="Digi-Key_PN" value="WM4202-ND"/>
+      <property name="MPN" value="0022232041"/>
+      <property name="Category" value="Connectors, Interconnects"/>
+      <property name="Family" value="Rectangular Connectors - Headers, Male Pins"/>
+      <property name="DK_Datasheet_Link" value="https://www.molex.com/pdm_docs/sd/022232041_sd.pdf"/>
+      <property name="DK_Detail_Page" value="/product-detail/en/molex/0022232041/WM4202-ND/26671"/>
+      <property name="Description" value="CONN HEADER VERT 4POS 2.54MM"/>
+      <property name="Manufacturer" value="Molex"/>
+      <property name="Status" value="Active"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5927c6f6-ad0e-40ab-bcfe-11053a776d6e</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>317956a7-5b5e-4fbf-b78b-b216376e5cd5</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>1K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2b7d3ac-9b55-4d09-accb-1b11368c2364</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>674b15df-0fbb-49de-b3d7-ef1cc966385d</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>1M</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>279c6317-c555-4840-a8b7-46b32bb32a5e</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6cc18728-7356-4e10-8d19-401420975980</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>1K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c36abed-7f47-4ce5-8e35-150e5ecbbe6b</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>220</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c36ef62-a907-48b9-9bf8-98888201db30</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>220</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78a83edd-244b-4cff-846f-9143a2f1454b</tstamps>
+    </comp>
+    <comp ref="RV1">
+      <value>1M</value>
+      <footprint>Potentiometer_THT:Potentiometer_Piher_PT-15-H01_Horizontal</footprint>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>130f5298-a441-4b22-817e-241ec73df140</tstamps>
+    </comp>
+    <comp ref="S1">
+      <value>EG1218</value>
+      <footprint>digikey-footprints:Switch_Slide_11.6x4mm_EG1218</footprint>
+      <datasheet>http://spec_sheets.e-switch.com/specs/P040040.pdf</datasheet>
+      <fields>
+        <field name="Category">Switches</field>
+        <field name="DK_Datasheet_Link">http://spec_sheets.e-switch.com/specs/P040040.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/e-switch/EG1218/EG1903-ND/101726</field>
+        <field name="Description">SWITCH SLIDE SPDT 200MA 30V</field>
+        <field name="Digi-Key_PN">EG1903-ND</field>
+        <field name="Family">Slide Switches</field>
+        <field name="MPN">EG1218</field>
+        <field name="Manufacturer">E-Switch</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="dk_Slide-Switches" part="EG1218" description="SWITCH SLIDE SPDT 200MA 30V"/>
+      <property name="Digi-Key_PN" value="EG1903-ND"/>
+      <property name="MPN" value="EG1218"/>
+      <property name="Category" value="Switches"/>
+      <property name="Family" value="Slide Switches"/>
+      <property name="DK_Datasheet_Link" value="http://spec_sheets.e-switch.com/specs/P040040.pdf"/>
+      <property name="DK_Detail_Page" value="/product-detail/en/e-switch/EG1218/EG1903-ND/101726"/>
+      <property name="Description" value="SWITCH SLIDE SPDT 200MA 30V"/>
+      <property name="Manufacturer" value="E-Switch"/>
+      <property name="Status" value="Active"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7fbc234-9654-457a-868d-fb6c71092b7c</tstamps>
+    </comp>
+    <comp ref="S2">
+      <value>EG1218</value>
+      <footprint>digikey-footprints:Switch_Slide_11.6x4mm_EG1218</footprint>
+      <datasheet>http://spec_sheets.e-switch.com/specs/P040040.pdf</datasheet>
+      <fields>
+        <field name="Category">Switches</field>
+        <field name="DK_Datasheet_Link">http://spec_sheets.e-switch.com/specs/P040040.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/e-switch/EG1218/EG1903-ND/101726</field>
+        <field name="Description">SWITCH SLIDE SPDT 200MA 30V</field>
+        <field name="Digi-Key_PN">EG1903-ND</field>
+        <field name="Family">Slide Switches</field>
+        <field name="MPN">EG1218</field>
+        <field name="Manufacturer">E-Switch</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="dk_Slide-Switches" part="EG1218" description="SWITCH SLIDE SPDT 200MA 30V"/>
+      <property name="Digi-Key_PN" value="EG1903-ND"/>
+      <property name="MPN" value="EG1218"/>
+      <property name="Category" value="Switches"/>
+      <property name="Family" value="Slide Switches"/>
+      <property name="DK_Datasheet_Link" value="http://spec_sheets.e-switch.com/specs/P040040.pdf"/>
+      <property name="DK_Detail_Page" value="/product-detail/en/e-switch/EG1218/EG1903-ND/101726"/>
+      <property name="Description" value="SWITCH SLIDE SPDT 200MA 30V"/>
+      <property name="Manufacturer" value="E-Switch"/>
+      <property name="Status" value="Active"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3250e0c-a3cf-4d8e-8852-c1c92508a525</tstamps>
+    </comp>
+    <comp ref="S3">
+      <value>SWITCH</value>
+      <footprint>digikey-footprints:Switch_Slide_11.6x4mm_EG1218</footprint>
+      <datasheet>http://spec_sheets.e-switch.com/specs/P040040.pdf</datasheet>
+      <fields>
+        <field name="Category">Switches</field>
+        <field name="DK_Datasheet_Link">http://spec_sheets.e-switch.com/specs/P040040.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/e-switch/EG1218/EG1903-ND/101726</field>
+        <field name="Description">SWITCH SLIDE SPDT 200MA 30V</field>
+        <field name="Digi-Key_PN">EG1903-ND</field>
+        <field name="Family">Slide Switches</field>
+        <field name="MPN">EG1218</field>
+        <field name="Manufacturer">E-Switch</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="dk_Slide-Switches" part="EG1218" description="SWITCH SLIDE SPDT 200MA 30V"/>
+      <property name="Digi-Key_PN" value="EG1903-ND"/>
+      <property name="MPN" value="EG1218"/>
+      <property name="Category" value="Switches"/>
+      <property name="Family" value="Slide Switches"/>
+      <property name="DK_Datasheet_Link" value="http://spec_sheets.e-switch.com/specs/P040040.pdf"/>
+      <property name="DK_Detail_Page" value="/product-detail/en/e-switch/EG1218/EG1903-ND/101726"/>
+      <property name="Description" value="SWITCH SLIDE SPDT 200MA 30V"/>
+      <property name="Manufacturer" value="E-Switch"/>
+      <property name="Status" value="Active"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d8fdb34-385d-48c8-99a3-3bfb4753ba28</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H5mm</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4d29bb1-9ff3-49d5-bd9e-36dee8a3c732</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>LM555xN</value>
+      <footprint>Package_DIP:DIP-8_W7.62mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm555.pdf</datasheet>
+      <libsource lib="Timer" part="LM555xN" description="Timer, 555 compatible, PDIP-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>711a8fd3-45a6-4da0-93ec-0e1998644a50</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>SN74LS32N</value>
+      <footprint>digikey-footprints:DIP-14_W3mm</footprint>
+      <datasheet>http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls32</datasheet>
+      <fields>
+        <field name="Category">Integrated Circuits (ICs)</field>
+        <field name="DK_Datasheet_Link">http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls32</field>
+        <field name="DK_Detail_Page">/product-detail/en/texas-instruments/SN74LS32N/296-1658-5-ND/277304</field>
+        <field name="Description">IC GATE OR 4CH 2-INP 14DIP</field>
+        <field name="Digi-Key_PN">296-1658-5-ND</field>
+        <field name="Family">Logic - Gates and Inverters</field>
+        <field name="MPN">SN74LS32N</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="dk_Logic-Gates-and-Inverters" part="SN74LS32N" description="IC GATE OR 4CH 2-INP 14DIP"/>
+      <property name="Digi-Key_PN" value="296-1658-5-ND"/>
+      <property name="MPN" value="SN74LS32N"/>
+      <property name="Category" value="Integrated Circuits (ICs)"/>
+      <property name="Family" value="Logic - Gates and Inverters"/>
+      <property name="DK_Datasheet_Link" value="http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls32"/>
+      <property name="DK_Detail_Page" value="/product-detail/en/texas-instruments/SN74LS32N/296-1658-5-ND/277304"/>
+      <property name="Description" value="IC GATE OR 4CH 2-INP 14DIP"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Status" value="Active"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2721d42-9cc6-45ab-bad7-f23a8d53a861</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>SN74LS08N</value>
+      <footprint>digikey-footprints:DIP-14_W3mm</footprint>
+      <datasheet>http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls08</datasheet>
+      <fields>
+        <field name="Category">Integrated Circuits (ICs)</field>
+        <field name="DK_Datasheet_Link">http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls08</field>
+        <field name="DK_Detail_Page">/product-detail/en/texas-instruments/SN74LS08N/296-1633-5-ND/277279</field>
+        <field name="Description">IC GATE AND 4CH 2-INP 14DIP</field>
+        <field name="Digi-Key_PN">296-1633-5-ND</field>
+        <field name="Family">Logic - Gates and Inverters</field>
+        <field name="MPN">SN74LS08N</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="dk_Logic-Gates-and-Inverters" part="SN74LS08N" description="IC GATE AND 4CH 2-INP 14DIP"/>
+      <property name="Digi-Key_PN" value="296-1633-5-ND"/>
+      <property name="MPN" value="SN74LS08N"/>
+      <property name="Category" value="Integrated Circuits (ICs)"/>
+      <property name="Family" value="Logic - Gates and Inverters"/>
+      <property name="DK_Datasheet_Link" value="http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls08"/>
+      <property name="DK_Detail_Page" value="/product-detail/en/texas-instruments/SN74LS08N/296-1633-5-ND/277279"/>
+      <property name="Description" value="IC GATE AND 4CH 2-INP 14DIP"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Status" value="Active"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0607a44-9e47-4926-b9e0-7fc463fd0a9b</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>LM555xN</value>
+      <footprint>Package_DIP:DIP-8_W7.62mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm555.pdf</datasheet>
+      <libsource lib="Timer" part="LM555xN" description="Timer, 555 compatible, PDIP-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e1db038-7fd3-4754-b20f-04d96db8860d</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>SN74LS04N</value>
+      <footprint>digikey-footprints:DIP-14_W3mm</footprint>
+      <datasheet>http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls04</datasheet>
+      <fields>
+        <field name="Category">Integrated Circuits (ICs)</field>
+        <field name="DK_Datasheet_Link">http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls04</field>
+        <field name="DK_Detail_Page">/product-detail/en/texas-instruments/SN74LS04N/296-1629-5-ND/277275</field>
+        <field name="Description">IC INVERTER 6CH 6-INP 14DIP</field>
+        <field name="Digi-Key_PN">296-1629-5-ND</field>
+        <field name="Family">Logic - Gates and Inverters</field>
+        <field name="MPN">SN74LS04N</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="dk_Logic-Gates-and-Inverters" part="SN74LS04N" description="IC INVERTER 6CH 6-INP 14DIP"/>
+      <property name="Digi-Key_PN" value="296-1629-5-ND"/>
+      <property name="MPN" value="SN74LS04N"/>
+      <property name="Category" value="Integrated Circuits (ICs)"/>
+      <property name="Family" value="Logic - Gates and Inverters"/>
+      <property name="DK_Datasheet_Link" value="http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls04"/>
+      <property name="DK_Detail_Page" value="/product-detail/en/texas-instruments/SN74LS04N/296-1629-5-ND/277275"/>
+      <property name="Description" value="IC INVERTER 6CH 6-INP 14DIP"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Status" value="Active"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>73dfe2f7-443b-4e82-b0b0-83a2526a09fc</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>LM555xN</value>
+      <footprint>Package_DIP:DIP-8_W7.62mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm555.pdf</datasheet>
+      <libsource lib="Timer" part="LM555xN" description="Timer, 555 compatible, PDIP-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="clock_module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79090604-2290-4268-a4f6-304334589f5b</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_US">
+      <description>Polarized capacitor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Potentiometer">
+      <description>Potentiometer</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Timer" part="LM555xN">
+      <description>Timer, 555 compatible, PDIP-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm555.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM555xN</field>
+        <field name="Footprint">Package_DIP:DIP-8_W7.62mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm555.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="TR" type="input"/>
+        <pin num="3" name="Q" type="output"/>
+        <pin num="4" name="R" type="input"/>
+        <pin num="5" name="CV" type="input"/>
+        <pin num="6" name="THR" type="input"/>
+        <pin num="7" name="DIS" type="input"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="dk_Barrel-Power-Connectors" part="PJ-102A">
+      <description>CONN PWR JACK 2X5.5MM SOLDER</description>
+      <docs>https://www.cui.com/product/resource/digikeypdf/pj-102a.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">PJ-102A</field>
+        <field name="Footprint">digikey-footprints:Barrel_Jack_5.5mmODx2.1mmID_PJ-102A</field>
+        <field name="Datasheet">https://www.cui.com/product/resource/digikeypdf/pj-102a.pdf</field>
+        <field name="Digi-Key_PN">CP-102A-ND</field>
+        <field name="MPN">PJ-102A</field>
+        <field name="Category">Connectors, Interconnects</field>
+        <field name="Family">Barrel - Power Connectors</field>
+        <field name="DK_Datasheet_Link">https://www.cui.com/product/resource/digikeypdf/pj-102a.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/cui-inc/PJ-102A/CP-102A-ND/275425</field>
+        <field name="Description">CONN PWR JACK 2X5.5MM SOLDER</field>
+        <field name="Manufacturer">CUI Inc.</field>
+        <field name="Status">Active</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="dk_Logic-Gates-and-Inverters" part="SN74LS04N">
+      <description>IC INVERTER 6CH 6-INP 14DIP</description>
+      <docs>http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls04</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SN74LS04N</field>
+        <field name="Footprint">digikey-footprints:DIP-14_W3mm</field>
+        <field name="Datasheet">http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls04</field>
+        <field name="Digi-Key_PN">296-1629-5-ND</field>
+        <field name="MPN">SN74LS04N</field>
+        <field name="Category">Integrated Circuits (ICs)</field>
+        <field name="Family">Logic - Gates and Inverters</field>
+        <field name="DK_Datasheet_Link">http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls04</field>
+        <field name="DK_Detail_Page">/product-detail/en/texas-instruments/SN74LS04N/296-1629-5-ND/277275</field>
+        <field name="Description">IC INVERTER 6CH 6-INP 14DIP</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Status">Active</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1A" type="input"/>
+        <pin num="2" name="1Y" type="output"/>
+        <pin num="3" name="2A" type="input"/>
+        <pin num="4" name="2Y" type="output"/>
+        <pin num="5" name="3A" type="input"/>
+        <pin num="6" name="3Y" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="4Y" type="output"/>
+        <pin num="9" name="4A" type="input"/>
+        <pin num="10" name="5Y" type="output"/>
+        <pin num="11" name="5A" type="input"/>
+        <pin num="12" name="6Y" type="output"/>
+        <pin num="13" name="6A" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="dk_Logic-Gates-and-Inverters" part="SN74LS08N">
+      <description>IC GATE AND 4CH 2-INP 14DIP</description>
+      <docs>http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls08</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SN74LS08N</field>
+        <field name="Footprint">digikey-footprints:DIP-14_W3mm</field>
+        <field name="Datasheet">http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls08</field>
+        <field name="Digi-Key_PN">296-1633-5-ND</field>
+        <field name="MPN">SN74LS08N</field>
+        <field name="Category">Integrated Circuits (ICs)</field>
+        <field name="Family">Logic - Gates and Inverters</field>
+        <field name="DK_Datasheet_Link">http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls08</field>
+        <field name="DK_Detail_Page">/product-detail/en/texas-instruments/SN74LS08N/296-1633-5-ND/277279</field>
+        <field name="Description">IC GATE AND 4CH 2-INP 14DIP</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Status">Active</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1A" type="input"/>
+        <pin num="2" name="1B" type="input"/>
+        <pin num="3" name="1Y" type="output"/>
+        <pin num="4" name="2A" type="input"/>
+        <pin num="5" name="2B" type="input"/>
+        <pin num="6" name="2Y" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="3Y" type="output"/>
+        <pin num="9" name="3A" type="input"/>
+        <pin num="10" name="3B" type="input"/>
+        <pin num="11" name="4Y" type="output"/>
+        <pin num="12" name="4A" type="input"/>
+        <pin num="13" name="4B" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="dk_Logic-Gates-and-Inverters" part="SN74LS32N">
+      <description>IC GATE OR 4CH 2-INP 14DIP</description>
+      <docs>http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls32</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SN74LS32N</field>
+        <field name="Footprint">digikey-footprints:DIP-14_W3mm</field>
+        <field name="Datasheet">http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls32</field>
+        <field name="Digi-Key_PN">296-1658-5-ND</field>
+        <field name="MPN">SN74LS32N</field>
+        <field name="Category">Integrated Circuits (ICs)</field>
+        <field name="Family">Logic - Gates and Inverters</field>
+        <field name="DK_Datasheet_Link">http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls32</field>
+        <field name="DK_Detail_Page">/product-detail/en/texas-instruments/SN74LS32N/296-1658-5-ND/277304</field>
+        <field name="Description">IC GATE OR 4CH 2-INP 14DIP</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Status">Active</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1A" type="input"/>
+        <pin num="2" name="1B" type="input"/>
+        <pin num="3" name="1Y" type="output"/>
+        <pin num="4" name="2A" type="input"/>
+        <pin num="5" name="2B" type="input"/>
+        <pin num="6" name="2Y" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="3Y" type="output"/>
+        <pin num="9" name="3A" type="input"/>
+        <pin num="10" name="3B" type="input"/>
+        <pin num="11" name="4Y" type="output"/>
+        <pin num="12" name="4A" type="input"/>
+        <pin num="13" name="4B" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="dk_Rectangular-Connectors-Headers-Male-Pins" part="0022232041">
+      <description>CONN HEADER VERT 4POS 2.54MM</description>
+      <docs>https://www.molex.com/pdm_docs/sd/022232041_sd.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">0022232041</field>
+        <field name="Footprint">digikey-footprints:PinHeader_1x4_P2.54mm_Drill1.02mm</field>
+        <field name="Datasheet">https://www.molex.com/pdm_docs/sd/022232041_sd.pdf</field>
+        <field name="Digi-Key_PN">WM4202-ND</field>
+        <field name="MPN">0022232041</field>
+        <field name="Category">Connectors, Interconnects</field>
+        <field name="Family">Rectangular Connectors - Headers, Male Pins</field>
+        <field name="DK_Datasheet_Link">https://www.molex.com/pdm_docs/sd/022232041_sd.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/molex/0022232041/WM4202-ND/26671</field>
+        <field name="Description">CONN HEADER VERT 4POS 2.54MM</field>
+        <field name="Manufacturer">Molex</field>
+        <field name="Status">Active</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="dk_Slide-Switches" part="EG1218">
+      <description>SWITCH SLIDE SPDT 200MA 30V</description>
+      <docs>http://spec_sheets.e-switch.com/specs/P040040.pdf</docs>
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">EG1218</field>
+        <field name="Footprint">digikey-footprints:Switch_Slide_11.6x4mm_EG1218</field>
+        <field name="Datasheet">http://spec_sheets.e-switch.com/specs/P040040.pdf</field>
+        <field name="Digi-Key_PN">EG1903-ND</field>
+        <field name="MPN">EG1218</field>
+        <field name="Category">Switches</field>
+        <field name="Family">Slide Switches</field>
+        <field name="DK_Datasheet_Link">http://spec_sheets.e-switch.com/specs/P040040.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/e-switch/EG1218/EG1903-ND/101726</field>
+        <field name="Description">SWITCH SLIDE SPDT 200MA 30V</field>
+        <field name="Manufacturer">E-Switch</field>
+        <field name="Status">Active</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+    <library logical="Timer">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Timer.kicad_sym</uri>
+    </library>
+    <library logical="dk_Barrel-Power-Connectors">
+      <uri>C:\Users\zogtr\Desktop\programming\KiCad\KiCad\libraries\digikey-kicad-library-master\digikey-symbols\dk_Barrel-Power-Connectors.lib</uri>
+    </library>
+    <library logical="dk_Logic-Gates-and-Inverters">
+      <uri>C:\Users\zogtr\Desktop\programming\KiCad\KiCad\libraries\digikey-kicad-library-master\digikey-symbols\dk_Logic-Gates-and-Inverters.lib</uri>
+    </library>
+    <library logical="dk_Rectangular-Connectors-Headers-Male-Pins">
+      <uri>C:\Users\zogtr\Desktop\programming\KiCad\KiCad\libraries\digikey-kicad-library-master\digikey-symbols\dk_Rectangular-Connectors-Headers-Male-Pins.lib</uri>
+    </library>
+    <library logical="dk_Slide-Switches">
+      <uri>C:\Users\zogtr\Desktop\programming\KiCad\KiCad\libraries\digikey-kicad-library-master\digikey-symbols\dk_Slide-Switches.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="3" pintype="passive"/>
+      <node ref="J2" pin="3" pintype="passive"/>
+      <node ref="RV1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="S2" pin="3" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="6" pinfunction="THR" pintype="input"/>
+    </net>
+    <net code="2" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="CV" pintype="input"/>
+    </net>
+    <net code="3" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="TR" pintype="input"/>
+      <node ref="U1" pin="6" pinfunction="THR" pintype="input"/>
+    </net>
+    <net code="4" name="Net-(C7-Pad1)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="CV" pintype="input"/>
+    </net>
+    <net code="5" name="Net-(C9-Pad1)">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="THR" pintype="input"/>
+      <node ref="U4" pin="7" pinfunction="DIS" pintype="input"/>
+    </net>
+    <net code="6" name="Net-(C11-Pad1)">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="U6" pin="5" pinfunction="CV" pintype="input"/>
+    </net>
+    <net code="7" name="Net-(C11-Pad2)">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="S3" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(J1-Pad1)">
+      <node ref="J1" pin="1" pintype="passive"/>
+      <node ref="S1" pin="2" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(J2-Pad1)">
+      <node ref="J2" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="3Y" pintype="output"/>
+      <node ref="U5" pin="5" pinfunction="3A" pintype="input"/>
+    </net>
+    <net code="12" name="Net-(J2-Pad4)">
+      <node ref="J2" pin="4" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U5" pin="6" pinfunction="3Y" pintype="output"/>
+    </net>
+    <net code="13" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="DIS" pintype="input"/>
+    </net>
+    <net code="14" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="RV1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(R3-Pad2)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="TR" pintype="input"/>
+    </net>
+    <net code="16" name="Net-(R5-Pad2)">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="S3" pin="1" pintype="passive"/>
+      <node ref="U6" pin="2" pinfunction="TR" pintype="input"/>
+    </net>
+    <net code="17" name="Net-(R6-Pad2)">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="S3" pin="3" pintype="passive"/>
+      <node ref="U6" pin="4" pinfunction="R" pintype="input"/>
+    </net>
+    <net code="18" name="Net-(S2-Pad2)">
+      <node ref="S2" pin="2" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="2A" pintype="input"/>
+    </net>
+    <net code="19" name="Net-(U1-Pad3)">
+      <node ref="U1" pin="3" pinfunction="Q" pintype="output"/>
+      <node ref="U3" pin="1" pinfunction="1A" pintype="input"/>
+    </net>
+    <net code="20" name="Net-(U2-Pad12)">
+      <node ref="U2" pin="12" pinfunction="4A" pintype="input"/>
+      <node ref="U3" pin="3" pinfunction="1Y" pintype="output"/>
+    </net>
+    <net code="21" name="Net-(U2-Pad13)">
+      <node ref="U2" pin="13" pinfunction="4B" pintype="input"/>
+      <node ref="U3" pin="6" pinfunction="2Y" pintype="output"/>
+    </net>
+    <net code="22" name="Net-(U3-Pad2)">
+      <node ref="U3" pin="2" pinfunction="1B" pintype="input"/>
+      <node ref="U4" pin="3" pinfunction="Q" pintype="output"/>
+      <node ref="U5" pin="1" pinfunction="1A" pintype="input"/>
+    </net>
+    <net code="23" name="Net-(U3-Pad10)">
+      <node ref="U3" pin="10" pinfunction="3B" pintype="input"/>
+      <node ref="U5" pin="4" pinfunction="2Y" pintype="output"/>
+    </net>
+    <net code="24" name="VCC">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="J2" pin="2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="S1" pin="1" pintype="passive"/>
+      <node ref="S2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="R" pintype="input"/>
+      <node ref="U1" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U2" pin="14" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="14" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U4" pin="4" pinfunction="R" pintype="input"/>
+      <node ref="U4" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U5" pin="14" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U6" pin="8" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="25" name="unconnected-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+    </net>
+    <net code="26" name="unconnected-(C2-Pad2)">
+      <node ref="C2" pin="2" pintype="passive"/>
+    </net>
+    <net code="27" name="unconnected-(RV1-Pad3)">
+      <node ref="RV1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="28" name="unconnected-(S1-Pad3)">
+      <node ref="S1" pin="3" pintype="passive"/>
+    </net>
+    <net code="29" name="unconnected-(U2-Pad1)">
+      <node ref="U2" pin="1" pinfunction="1A" pintype="input"/>
+    </net>
+    <net code="30" name="unconnected-(U2-Pad2)">
+      <node ref="U2" pin="2" pinfunction="1B" pintype="input"/>
+    </net>
+    <net code="31" name="unconnected-(U2-Pad3)">
+      <node ref="U2" pin="3" pinfunction="1Y" pintype="output"/>
+    </net>
+    <net code="32" name="unconnected-(U2-Pad4)">
+      <node ref="U2" pin="4" pinfunction="2A" pintype="input"/>
+    </net>
+    <net code="33" name="unconnected-(U2-Pad5)">
+      <node ref="U2" pin="5" pinfunction="2B" pintype="input"/>
+    </net>
+    <net code="34" name="unconnected-(U2-Pad6)">
+      <node ref="U2" pin="6" pinfunction="2Y" pintype="output"/>
+    </net>
+    <net code="35" name="unconnected-(U2-Pad8)">
+      <node ref="U2" pin="8" pinfunction="3Y" pintype="output"/>
+    </net>
+    <net code="36" name="unconnected-(U2-Pad9)">
+      <node ref="U2" pin="9" pinfunction="3A" pintype="input"/>
+    </net>
+    <net code="37" name="unconnected-(U2-Pad10)">
+      <node ref="U2" pin="10" pinfunction="3B" pintype="input"/>
+    </net>
+    <net code="38" name="unconnected-(U2-Pad11)">
+      <node ref="U2" pin="11" pinfunction="4Y" pintype="output"/>
+    </net>
+    <net code="39" name="unconnected-(U3-Pad4)">
+      <node ref="U3" pin="4" pinfunction="2A" pintype="input"/>
+    </net>
+    <net code="40" name="unconnected-(U3-Pad5)">
+      <node ref="U3" pin="5" pinfunction="2B" pintype="input"/>
+    </net>
+    <net code="41" name="unconnected-(U3-Pad9)">
+      <node ref="U3" pin="9" pinfunction="3A" pintype="input"/>
+    </net>
+    <net code="42" name="unconnected-(U3-Pad11)">
+      <node ref="U3" pin="11" pinfunction="4Y" pintype="output"/>
+    </net>
+    <net code="43" name="unconnected-(U3-Pad12)">
+      <node ref="U3" pin="12" pinfunction="4A" pintype="input"/>
+    </net>
+    <net code="44" name="unconnected-(U3-Pad13)">
+      <node ref="U3" pin="13" pinfunction="4B" pintype="input"/>
+    </net>
+    <net code="45" name="unconnected-(U5-Pad2)">
+      <node ref="U5" pin="2" pinfunction="1Y" pintype="output"/>
+    </net>
+    <net code="46" name="unconnected-(U5-Pad8)">
+      <node ref="U5" pin="8" pinfunction="4Y" pintype="output"/>
+    </net>
+    <net code="47" name="unconnected-(U5-Pad9)">
+      <node ref="U5" pin="9" pinfunction="4A" pintype="input"/>
+    </net>
+    <net code="48" name="unconnected-(U5-Pad10)">
+      <node ref="U5" pin="10" pinfunction="5Y" pintype="output"/>
+    </net>
+    <net code="49" name="unconnected-(U5-Pad11)">
+      <node ref="U5" pin="11" pinfunction="5A" pintype="input"/>
+    </net>
+    <net code="50" name="unconnected-(U5-Pad12)">
+      <node ref="U5" pin="12" pinfunction="6Y" pintype="output"/>
+    </net>
+    <net code="51" name="unconnected-(U5-Pad13)">
+      <node ref="U5" pin="13" pinfunction="6A" pintype="input"/>
+    </net>
+    <net code="52" name="unconnected-(U6-Pad3)">
+      <node ref="U6" pin="3" pinfunction="Q" pintype="output"/>
+    </net>
+    <net code="53" name="unconnected-(U6-Pad7)">
+      <node ref="U6" pin="7" pinfunction="DIS" pintype="input"/>
+    </net>
+  </nets>
+</export>

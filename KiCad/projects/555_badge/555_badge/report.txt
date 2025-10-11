@@ -1,0 +1,144 @@
+Info: Processing symbol 'BAT1:digikey-footprints:Battery_Holder_Coin_2032_BS-7'.
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'C1:Capacitor_THT:CP_Radial_D5.0mm_P2.50mm'.
+Info: Processing symbol 'D1:LED_THT:LED_D3.0mm'.
+Info: Processing symbol 'Q1:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'C2:Capacitor_THT:CP_Radial_D6.3mm_P2.50mm'.
+Info: Processing symbol 'D2:LED_THT:LED_D3.0mm'.
+Info: Processing symbol 'R2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R3:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R4:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R5:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R6:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R7:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'S1:digikey-footprints:Switch_Slide_11.6x4mm_EG1218'.
+Info: Processing symbol 'U1:555_badge:ICM7555-PDIP'.
+Connected BAT1 pin Pos to unconnected-(BAT1-PadPos).
+Added C1 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.50mm').
+Changed REF** reference designator to C1.
+Changed C1 value from CP_Radial_D5.0mm_P2.50mm to 10uF.
+Updated C1 symbol association from  to /bb1bf1bb-fc3a-4975-97ca-9b344d062952.
+Updated C1 properties.
+Add net Net-(C1-Pad1).
+Connected C1 pin 1 to Net-(C1-Pad1).
+Connected C1 pin 2 to GND.
+Added C2 (footprint 'Capacitor_THT:CP_Radial_D6.3mm_P2.50mm').
+Changed REF** reference designator to C2.
+Changed C2 value from CP_Radial_D6.3mm_P2.50mm to 100uF.
+Updated C2 symbol association from  to /d5bbfbf9-143b-4a28-becf-e467f43338c9.
+Updated C2 properties.
+Add net Net-(C2-Pad1).
+Connected C2 pin 1 to Net-(C2-Pad1).
+Connected C2 pin 2 to GND.
+Added D1 (footprint 'LED_THT:LED_D3.0mm').
+Changed REF** reference designator to D1.
+Changed D1 value from LED_D3.0mm to RED.
+Updated D1 symbol association from  to /7299253b-8b45-46e0-aa80-4a583b65117b.
+Updated D1 properties.
+Add net Net-(D1-Pad1).
+Connected D1 pin 1 to Net-(D1-Pad1).
+Add net Net-(D1-Pad2).
+Connected D1 pin 2 to Net-(D1-Pad2).
+Added D2 (footprint 'LED_THT:LED_D3.0mm').
+Changed REF** reference designator to D2.
+Changed D2 value from LED_D3.0mm to RED.
+Updated D2 symbol association from  to /c2950bf6-d324-469a-9654-15008ccdc293.
+Updated D2 properties.
+Connected D2 pin 1 to Net-(D1-Pad1).
+Add net Net-(D2-Pad2).
+Connected D2 pin 2 to Net-(D2-Pad2).
+Added Q1 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Changed REF** reference designator to Q1.
+Changed Q1 value from TO-92_Inline to 2N3904.
+Updated Q1 symbol association from  to /5e0f8c9a-e674-4c8f-aab6-838787808a06.
+Updated Q1 properties.
+Connected Q1 pin 1 to GND.
+Add net Net-(Q1-Pad2).
+Connected Q1 pin 2 to Net-(Q1-Pad2).
+Connected Q1 pin 3 to Net-(D1-Pad1).
+Added R1 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R1.
+Changed R1 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 22k.
+Updated R1 symbol association from  to /6ff92bae-5dc8-47c8-9421-732496cc66f3.
+Updated R1 properties.
+Add net VCC.
+Connected R1 pin 1 to VCC.
+Add net Net-(R1-Pad2).
+Connected R1 pin 2 to Net-(R1-Pad2).
+Added R2 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R2.
+Changed R2 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 330k.
+Updated R2 symbol association from  to /cd2e7760-7468-4ca1-80b4-fecec2560195.
+Updated R2 properties.
+Connected R2 pin 1 to Net-(R1-Pad2).
+Connected R2 pin 2 to Net-(C1-Pad1).
+Added BAT1 (footprint 'digikey-footprints:Battery_Holder_Coin_2032_BS-7').
+Added R3 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R3.
+Changed R3 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 22k.
+Updated R3 symbol association from  to /faad78e0-8a17-46fe-86f4-ad953fa4e44a.
+Updated R3 properties.
+Connected R3 pin 1 to Net-(C2-Pad1).
+Add net Net-(R3-Pad2).
+Connected R3 pin 2 to Net-(R3-Pad2).
+Changed REF** reference designator to BAT1.
+Added R4 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R4.
+Changed R4 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 100k.
+Updated R4 symbol association from  to /602e41d2-8b6d-42bc-bd49-9bd37cec50ce.
+Updated R4 properties.
+Connected R4 pin 1 to Net-(C2-Pad1).
+Connected R4 pin 2 to GND.
+Updated BAT1 symbol association from  to /c13b2a59-5d83-4408-b0c3-3384b178551b.
+Added R5 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R5.
+Changed R5 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 10k.
+Updated R5 symbol association from  to /fba0c65d-f7bc-4bdd-bff1-d7af78c8935e.
+Updated R5 properties.
+Connected R5 pin 1 to Net-(C2-Pad1).
+Connected R5 pin 2 to Net-(Q1-Pad2).
+Updated BAT1 properties.
+Added R6 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R6.
+Changed R6 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 100.
+Updated R6 symbol association from  to /a276e980-d576-4eef-bb01-982f8c6fad33.
+Updated R6 properties.
+Connected R6 pin 1 to VCC.
+Connected R6 pin 2 to Net-(D1-Pad2).
+Add net GND.
+Added R7 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R7.
+Changed R7 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 100.
+Updated R7 symbol association from  to /19a56018-58bb-442c-9d2d-587135328478.
+Updated R7 properties.
+Connected R7 pin 1 to VCC.
+Connected R7 pin 2 to Net-(D2-Pad2).
+Connected BAT1 pin Neg to GND.
+Added S1 (footprint 'digikey-footprints:Switch_Slide_11.6x4mm_EG1218').
+Changed REF** reference designator to S1.
+Changed S1 value from Switch_Slide_11.6x4mm_EG1218 to com.
+Updated S1 symbol association from  to /2665bcc9-3e1d-45dc-ab8a-8c6ed459917d.
+Updated S1 properties.
+Add net unconnected-(S1-Pad1).
+Connected S1 pin 1 to unconnected-(S1-Pad1).
+Connected S1 pin 2 to VCC.
+Add net unconnected-(S1-Pad3).
+Connected S1 pin 3 to unconnected-(S1-Pad3).
+Add net unconnected-(BAT1-PadPos).
+Added U1 (footprint '555_badge:ICM7555-PDIP').
+Changed REF** reference designator to U1.
+Changed U1 value from ICM7555-PDIP to 7555.
+Updated U1 symbol association from  to /dbd76b9e-07d3-4b0a-9e05-e83ea9172091.
+Updated U1 properties.
+Connected U1 pin 1 to GND.
+Connected U1 pin 2 to Net-(C1-Pad1).
+Connected U1 pin 3 to Net-(R3-Pad2).
+Connected U1 pin 4 to VCC.
+Add net unconnected-(U1-Pad5).
+Connected U1 pin 5 to unconnected-(U1-Pad5).
+Connected U1 pin 6 to Net-(C1-Pad1).
+Connected U1 pin 7 to Net-(R1-Pad2).
+Connected U1 pin 8 to VCC.
+
+
+Info: Total warnings: 0, errors: 0.
